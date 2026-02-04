@@ -1123,5 +1123,797 @@ return {
     ["res_pot_lobster"] = {
         label = "res_pot_lobster",
         image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-AD%20Mrs.bzzz%20Props/res_pot_lobster.png"
+    },
+    ["advancedkit"] = {
+        label = "advancedkit",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/advancedkit.png"
+    },
+    ["ammo-9"] = {
+        label = "ammo-9",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/ammo-9.png"
+    },
+    ["ammo-22"] = {
+        label = "ammo-22",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/ammo-22.png"
+    },
+    ["ammo-38"] = {
+        label = "ammo-38",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/ammo-38.png"
+    },
+    ["ammo-44"] = {
+        label = "ammo-44",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/ammo-44.png"
+    },
+    ["ammo-45"] = {
+        label = "ammo-45",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/ammo-45.png"
+    },
+    ["ammo-50"] = {
+        label = "ammo-50",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/ammo-50.png"
+    },
+    ["ammo-beanbag"] = {
+        label = "ammo-beanbag",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/ammo-beanbag.png"
+    },
+    ["ammo-emp"] = {
+        label = "ammo-emp",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/ammo-emp.png"
+    },
+    ["ammo-firework"] = {
+        label = "ammo-firework",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/ammo-firework.PNG"
+    },
+    ["ammo-flare"] = {
+        label = "ammo-flare",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/ammo-flare.png"
+    },
+    ["ammo-grenade"] = {
+        label = "ammo-grenade",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/ammo-grenade.png"
+    },
+    ["ammo-heavysniper"] = {
+        label = "ammo-heavysniper",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/ammo-heavysniper.png"
+    },
+    ["ammo-laser"] = {
+        label = "ammo-laser",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/ammo-laser.png"
+    },
+    ["ammo-musket"] = {
+        label = "ammo-musket",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/ammo-musket.png"
+    },
+    ["ammo-railgun"] = {
+        label = "ammo-railgun",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/ammo-railgun.png"
+    },
+    ["ammo-rifle"] = {
+        label = "ammo-rifle",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/ammo-rifle.png"
+    },
+    ["ammo-rifle2"] = {
+        label = "ammo-rifle2",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/ammo-rifle2.png"
+    },
+    ["ammo-rocket"] = {
+        label = "ammo-rocket",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/ammo-rocket.png"
+    },
+    ["ammo-shotgun"] = {
+        label = "ammo-shotgun",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/ammo-shotgun.png"
+    },
+    ["ammo-sniper"] = {
+        label = "ammo-sniper",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/ammo-sniper.png"
+    },
+    ["armour"] = {
+        label = "armour",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/armour.png"
+    },
+    ["at_barrel"] = {
+        label = "at_barrel",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/at_barrel.png"
+    },
+    ["at_clip_drum"] = {
+        label = "at_clip_drum",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/at_clip_drum.png"
+    },
+    ["at_clip_extended"] = {
+        label = "at_clip_extended",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/at_clip_extended.png"
+    },
+    ["at_clip_extended2"] = {
+        label = "at_clip_extended2",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/at_clip_extended2.png"
+    },
+    ["at_flashlight"] = {
+        label = "at_flashlight",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/at_flashlight.png"
+    },
+    ["at_grip"] = {
+        label = "at_grip",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/at_grip.png"
+    },
+    ["at_muzzle_bell"] = {
+        label = "at_muzzle_bell",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/at_muzzle_bell.png"
+    },
+    ["at_muzzle_fat"] = {
+        label = "at_muzzle_fat",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/at_muzzle_fat.png"
+    },
+    ["at_muzzle_flat"] = {
+        label = "at_muzzle_flat",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/at_muzzle_flat.png"
+    },
+    ["at_muzzle_heavy"] = {
+        label = "at_muzzle_heavy",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/at_muzzle_heavy.png"
+    },
+    ["at_muzzle_precision_"] = {
+        label = "at_muzzle_precision_",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/at_muzzle_precision'.png"
+    },
+    ["at_muzzle_slanted"] = {
+        label = "at_muzzle_slanted",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/at_muzzle_slanted.png"
+    },
+    ["at_muzzle_split"] = {
+        label = "at_muzzle_split",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/at_muzzle_split.png"
+    },
+    ["at_muzzle_squared"] = {
+        label = "at_muzzle_squared",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/at_muzzle_squared.png"
+    },
+    ["at_muzzle_tactical"] = {
+        label = "at_muzzle_tactical",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/at_muzzle_tactical.png"
+    },
+    ["at_scope_advanced"] = {
+        label = "at_scope_advanced",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/at_scope_advanced.png"
+    },
+    ["at_scope_holo"] = {
+        label = "at_scope_holo",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/at_scope_holo.png"
+    },
+    ["at_scope_large"] = {
+        label = "at_scope_large",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/at_scope_large.png"
+    },
+    ["at_scope_medium"] = {
+        label = "at_scope_medium",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/at_scope_medium.png"
+    },
+    ["at_scope_nv"] = {
+        label = "at_scope_nv",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/at_scope_nv.png"
+    },
+    ["at_scope_small"] = {
+        label = "at_scope_small",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/at_scope_small.png"
+    },
+    ["at_scope_thermal"] = {
+        label = "at_scope_thermal",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/at_scope_thermal.png"
+    },
+    ["at_suppressor"] = {
+        label = "at_suppressor",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/at_suppressor.png"
+    },
+    ["bandage"] = {
+        label = "bandage",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/bandage.png"
+    },
+    ["black_money"] = {
+        label = "black_money",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/black_money.png"
+    },
+    ["burger"] = {
+        label = "burger",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/burger.png"
+    },
+    ["burger_chicken"] = {
+        label = "burger_chicken",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/burger_chicken.png"
+    },
+    ["card_bank"] = {
+        label = "card_bank",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/card_bank.png"
+    },
+    ["card_id"] = {
+        label = "card_id",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/card_id.png"
+    },
+    ["carkey"] = {
+        label = "carkey",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/carkey.png"
+    },
+    ["Cigarette"] = {
+        label = "Cigarette",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/Cigarette.png"
+    },
+    ["cigarettes_redwood"] = {
+        label = "cigarettes_redwood",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/cigarettes_redwood.png"
+    },
+    ["cocaine"] = {
+        label = "cocaine",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/cocaine.png"
+    },
+    ["donut"] = {
+        label = "donut",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/donut.png"
+    },
+    ["fries"] = {
+        label = "fries",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/fries.png"
+    },
+    ["garbage"] = {
+        label = "garbage",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/garbage.png"
+    },
+    ["key"] = {
+        label = "key",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/key.png"
+    },
+    ["lockpick"] = {
+        label = "lockpick",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/lockpick.png"
+    },
+    ["medikit"] = {
+        label = "medikit",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/medikit.png"
+    },
+    ["meth"] = {
+        label = "meth",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/meth.png"
+    },
+    ["money"] = {
+        label = "money",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/money.png"
+    },
+    ["mustard"] = {
+        label = "mustard",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/mustard.png"
+    },
+    ["oldkey"] = {
+        label = "oldkey",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/oldkey.png"
+    },
+    ["panties"] = {
+        label = "panties",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/panties.png"
+    },
+    ["paperbag"] = {
+        label = "paperbag",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/paperbag.png"
+    },
+    ["parachute"] = {
+        label = "parachute",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/parachute.png"
+    },
+    ["phone"] = {
+        label = "phone",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/phone.png"
+    },
+    ["pizza_ham"] = {
+        label = "pizza_ham",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/pizza_ham.png"
+    },
+    ["pizza_ham_box"] = {
+        label = "pizza_ham_box",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/pizza_ham_box.png"
+    },
+    ["pizza_ham_slice"] = {
+        label = "pizza_ham_slice",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/pizza_ham_slice.png"
+    },
+    ["radio"] = {
+        label = "radio",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/radio.png"
+    },
+    ["scrapmetal"] = {
+        label = "scrapmetal",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/scrapmetal.png"
+    },
+    ["sprunk"] = {
+        label = "sprunk",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/sprunk.png"
+    },
+    ["trash"] = {
+        label = "trash",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/trash.png"
+    },
+    ["trash_bread"] = {
+        label = "trash_bread",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/trash_bread.png"
+    },
+    ["trash_burger"] = {
+        label = "trash_burger",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/trash_burger.png"
+    },
+    ["trash_can"] = {
+        label = "trash_can",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/trash_can.png"
+    },
+    ["trash_chips"] = {
+        label = "trash_chips",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/trash_chips.png"
+    },
+    ["usb_black"] = {
+        label = "usb_black",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/usb_black.png"
+    },
+    ["water"] = {
+        label = "water",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/water.png"
+    },
+    ["WEAPON_ACIDPACKAGE"] = {
+        label = "WEAPON_ACIDPACKAGE",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_ACIDPACKAGE.PNG"
+    },
+    ["WEAPON_ADVANCEDRIFLE"] = {
+        label = "WEAPON_ADVANCEDRIFLE",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_ADVANCEDRIFLE.png"
+    },
+    ["WEAPON_APPISTOL"] = {
+        label = "WEAPON_APPISTOL",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_APPISTOL.png"
+    },
+    ["WEAPON_ASSAULTRIFLE"] = {
+        label = "WEAPON_ASSAULTRIFLE",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_ASSAULTRIFLE.png"
+    },
+    ["WEAPON_ASSAULTRIFLE_MK2"] = {
+        label = "WEAPON_ASSAULTRIFLE_MK2",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_ASSAULTRIFLE_MK2.png"
+    },
+    ["WEAPON_ASSAULTSHOTGUN"] = {
+        label = "WEAPON_ASSAULTSHOTGUN",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_ASSAULTSHOTGUN.png"
+    },
+    ["WEAPON_ASSAULTSMG"] = {
+        label = "WEAPON_ASSAULTSMG",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_ASSAULTSMG.png"
+    },
+    ["WEAPON_AUTOSHOTGUN"] = {
+        label = "WEAPON_AUTOSHOTGUN",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_AUTOSHOTGUN.png"
+    },
+    ["WEAPON_BALL"] = {
+        label = "WEAPON_BALL",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_BALL.png"
+    },
+    ["WEAPON_BAT"] = {
+        label = "WEAPON_BAT",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_BAT.png"
+    },
+    ["WEAPON_BATTLEAXE"] = {
+        label = "WEAPON_BATTLEAXE",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_BATTLEAXE.png"
+    },
+    ["WEAPON_BOTTLE"] = {
+        label = "WEAPON_BOTTLE",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_BOTTLE.png"
+    },
+    ["WEAPON_BREAD"] = {
+        label = "WEAPON_BREAD",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_BREAD.PNG"
+    },
+    ["WEAPON_BRIEFCASE"] = {
+        label = "WEAPON_BRIEFCASE",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_BRIEFCASE.PNG"
+    },
+    ["WEAPON_BRIEFCASE_02"] = {
+        label = "WEAPON_BRIEFCASE_02",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_BRIEFCASE_02.PNG"
+    },
+    ["WEAPON_BULLPUPRIFLE"] = {
+        label = "WEAPON_BULLPUPRIFLE",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_BULLPUPRIFLE.png"
+    },
+    ["WEAPON_BULLPUPRIFLE_MK2"] = {
+        label = "WEAPON_BULLPUPRIFLE_MK2",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_BULLPUPRIFLE_MK2.png"
+    },
+    ["WEAPON_BULLPUPSHOTGUN"] = {
+        label = "WEAPON_BULLPUPSHOTGUN",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_BULLPUPSHOTGUN.png"
+    },
+    ["WEAPON_BZGAS"] = {
+        label = "WEAPON_BZGAS",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_BZGAS.png"
+    },
+    ["WEAPON_CANDYCANE"] = {
+        label = "WEAPON_CANDYCANE",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_CANDYCANE.png"
+    },
+    ["WEAPON_CARBINERIFLE"] = {
+        label = "WEAPON_CARBINERIFLE",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_CARBINERIFLE.png"
+    },
+    ["WEAPON_CARBINERIFLE_MK2"] = {
+        label = "WEAPON_CARBINERIFLE_MK2",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_CARBINERIFLE_MK2.png"
+    },
+    ["WEAPON_CERAMICPISTOL"] = {
+        label = "WEAPON_CERAMICPISTOL",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_CERAMICPISTOL.png"
+    },
+    ["WEAPON_COMBATMG"] = {
+        label = "WEAPON_COMBATMG",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_COMBATMG.png"
+    },
+    ["WEAPON_COMBATMG_MK2"] = {
+        label = "WEAPON_COMBATMG_MK2",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_COMBATMG_MK2.png"
+    },
+    ["WEAPON_COMBATPDW"] = {
+        label = "WEAPON_COMBATPDW",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_COMBATPDW.png"
+    },
+    ["WEAPON_COMBATPISTOL"] = {
+        label = "WEAPON_COMBATPISTOL",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_COMBATPISTOL.png"
+    },
+    ["WEAPON_COMBATSHOTGUN"] = {
+        label = "WEAPON_COMBATSHOTGUN",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_COMBATSHOTGUN.png"
+    },
+    ["WEAPON_COMPACTLAUNCHER"] = {
+        label = "WEAPON_COMPACTLAUNCHER",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_COMPACTLAUNCHER.png"
+    },
+    ["WEAPON_COMPACTRIFLE"] = {
+        label = "WEAPON_COMPACTRIFLE",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_COMPACTRIFLE.png"
+    },
+    ["WEAPON_CROWBAR"] = {
+        label = "WEAPON_CROWBAR",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_CROWBAR.png"
+    },
+    ["WEAPON_DAGGER"] = {
+        label = "WEAPON_DAGGER",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_DAGGER.PNG"
+    },
+    ["WEAPON_DBSHOTGUN"] = {
+        label = "WEAPON_DBSHOTGUN",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_DBSHOTGUN.png"
+    },
+    ["WEAPON_DIGISCANNER"] = {
+        label = "WEAPON_DIGISCANNER",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_DIGISCANNER.png"
+    },
+    ["WEAPON_DOUBLEACTION"] = {
+        label = "WEAPON_DOUBLEACTION",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_DOUBLEACTION.png"
+    },
+    ["WEAPON_EMPLAUNCHER"] = {
+        label = "WEAPON_EMPLAUNCHER",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_EMPLAUNCHER.png"
+    },
+    ["WEAPON_FERTILIZERCAN"] = {
+        label = "WEAPON_FERTILIZERCAN",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_FERTILIZERCAN.png"
+    },
+    ["WEAPON_FIREEXTINGUISHER"] = {
+        label = "WEAPON_FIREEXTINGUISHER",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_FIREEXTINGUISHER.png"
+    },
+    ["WEAPON_FIREWORK"] = {
+        label = "WEAPON_FIREWORK",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_FIREWORK.png"
+    },
+    ["WEAPON_FLARE"] = {
+        label = "WEAPON_FLARE",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_FLARE.png"
+    },
+    ["WEAPON_FLAREGUN"] = {
+        label = "WEAPON_FLAREGUN",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_FLAREGUN.png"
+    },
+    ["WEAPON_FLASHLIGHT"] = {
+        label = "WEAPON_FLASHLIGHT",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_FLASHLIGHT.png"
+    },
+    ["WEAPON_GADGETPISTOL"] = {
+        label = "WEAPON_GADGETPISTOL",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_GADGETPISTOL.png"
+    },
+    ["WEAPON_GARBAGEBAG"] = {
+        label = "WEAPON_GARBAGEBAG",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_GARBAGEBAG.PNG"
+    },
+    ["WEAPON_GAS"] = {
+        label = "WEAPON_GAS",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_GAS.PNG"
+    },
+    ["WEAPON_GOLFCLUB"] = {
+        label = "WEAPON_GOLFCLUB",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_GOLFCLUB.png"
+    },
+    ["WEAPON_GRENADE"] = {
+        label = "WEAPON_GRENADE",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_GRENADE.png"
+    },
+    ["WEAPON_GRENADELAUNCHER"] = {
+        label = "WEAPON_GRENADELAUNCHER",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_GRENADELAUNCHER.png"
+    },
+    ["WEAPON_GRENADELAUNCHER_SMOKE"] = {
+        label = "WEAPON_GRENADELAUNCHER_SMOKE",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_GRENADELAUNCHER_SMOKE.PNG"
+    },
+    ["WEAPON_GUSENBERG"] = {
+        label = "WEAPON_GUSENBERG",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_GUSENBERG.png"
+    },
+    ["WEAPON_HAMMER"] = {
+        label = "WEAPON_HAMMER",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_HAMMER.png"
+    },
+    ["WEAPON_HANDCUFFS"] = {
+        label = "WEAPON_HANDCUFFS",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_HANDCUFFS.PNG"
+    },
+    ["WEAPON_HATCHET"] = {
+        label = "WEAPON_HATCHET",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_HATCHET.png"
+    },
+    ["WEAPON_HAZARDCAN"] = {
+        label = "WEAPON_HAZARDCAN",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_HAZARDCAN.png"
+    },
+    ["WEAPON_HEAVYPISTOL"] = {
+        label = "WEAPON_HEAVYPISTOL",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_HEAVYPISTOL.png"
+    },
+    ["WEAPON_HEAVYRIFLE"] = {
+        label = "WEAPON_HEAVYRIFLE",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_HEAVYRIFLE.png"
+    },
+    ["WEAPON_HEAVYSHOTGUN"] = {
+        label = "WEAPON_HEAVYSHOTGUN",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_HEAVYSHOTGUN.png"
+    },
+    ["WEAPON_HEAVYSNIPER"] = {
+        label = "WEAPON_HEAVYSNIPER",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_HEAVYSNIPER.png"
+    },
+    ["WEAPON_HEAVYSNIPER_MK2"] = {
+        label = "WEAPON_HEAVYSNIPER_MK2",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_HEAVYSNIPER_MK2.png"
+    },
+    ["WEAPON_HOMINGLAUNCHER"] = {
+        label = "WEAPON_HOMINGLAUNCHER",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_HOMINGLAUNCHER.png"
+    },
+    ["WEAPON_KNIFE"] = {
+        label = "WEAPON_KNIFE",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_KNIFE.png"
+    },
+    ["WEAPON_KNUCKLE"] = {
+        label = "WEAPON_KNUCKLE",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_KNUCKLE.png"
+    },
+    ["WEAPON_LICENSE"] = {
+        label = "WEAPON_LICENSE",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_LICENSE.PNG"
+    },
+    ["WEAPON_MACHETE"] = {
+        label = "WEAPON_MACHETE",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_MACHETE.png"
+    },
+    ["WEAPON_MACHINEPISTOL"] = {
+        label = "WEAPON_MACHINEPISTOL",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_MACHINEPISTOL.png"
+    },
+    ["WEAPON_MARKSMANPISTOL"] = {
+        label = "WEAPON_MARKSMANPISTOL",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_MARKSMANPISTOL.png"
+    },
+    ["WEAPON_MARKSMANRIFLE"] = {
+        label = "WEAPON_MARKSMANRIFLE",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_MARKSMANRIFLE.png"
+    },
+    ["WEAPON_MARKSMANRIFLE_MK2"] = {
+        label = "WEAPON_MARKSMANRIFLE_MK2",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_MARKSMANRIFLE_MK2.png"
+    },
+    ["WEAPON_METALDETECTOR"] = {
+        label = "WEAPON_METALDETECTOR",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_METALDETECTOR.png"
+    },
+    ["WEAPON_MG"] = {
+        label = "WEAPON_MG",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_MG.png"
+    },
+    ["WEAPON_MICROSMG"] = {
+        label = "WEAPON_MICROSMG",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_MICROSMG.png"
+    },
+    ["WEAPON_MILITARYRIFLE"] = {
+        label = "WEAPON_MILITARYRIFLE",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_MILITARYRIFLE.png"
+    },
+    ["WEAPON_MINIGUN"] = {
+        label = "WEAPON_MINIGUN",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_MINIGUN.png"
+    },
+    ["WEAPON_MINISMG"] = {
+        label = "WEAPON_MINISMG",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_MINISMG.png"
+    },
+    ["WEAPON_MOLOTOV"] = {
+        label = "WEAPON_MOLOTOV",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_MOLOTOV.png"
+    },
+    ["WEAPON_MUSKET"] = {
+        label = "WEAPON_MUSKET",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_MUSKET.png"
+    },
+    ["WEAPON_NAVYREVOLVER"] = {
+        label = "WEAPON_NAVYREVOLVER",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_NAVYREVOLVER.png"
+    },
+    ["WEAPON_NIGHTSTICK"] = {
+        label = "WEAPON_NIGHTSTICK",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_NIGHTSTICK.png"
+    },
+    ["WEAPON_PETROLCAN"] = {
+        label = "WEAPON_PETROLCAN",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_PETROLCAN.png"
+    },
+    ["WEAPON_PIPEBOMB"] = {
+        label = "WEAPON_PIPEBOMB",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_PIPEBOMB.png"
+    },
+    ["WEAPON_PISTOL"] = {
+        label = "WEAPON_PISTOL",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_PISTOL.png"
+    },
+    ["WEAPON_PISTOL_MK2"] = {
+        label = "WEAPON_PISTOL_MK2",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_PISTOL_MK2.png"
+    },
+    ["WEAPON_PISTOL50"] = {
+        label = "WEAPON_PISTOL50",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_PISTOL50.png"
+    },
+    ["WEAPON_PISTOLXM3"] = {
+        label = "WEAPON_PISTOLXM3",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_PISTOLXM3.png"
+    },
+    ["WEAPON_POOLCUE"] = {
+        label = "WEAPON_POOLCUE",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_POOLCUE.png"
+    },
+    ["WEAPON_PRECISIONRIFLE"] = {
+        label = "WEAPON_PRECISIONRIFLE",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_PRECISIONRIFLE.png"
+    },
+    ["WEAPON_PROXMINE"] = {
+        label = "WEAPON_PROXMINE",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_PROXMINE.png"
+    },
+    ["WEAPON_PUMPSHOTGUN"] = {
+        label = "WEAPON_PUMPSHOTGUN",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_PUMPSHOTGUN.png"
+    },
+    ["WEAPON_PUMPSHOTGUN_MK2"] = {
+        label = "WEAPON_PUMPSHOTGUN_MK2",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_PUMPSHOTGUN_MK2.png"
+    },
+    ["WEAPON_RAILGUN"] = {
+        label = "WEAPON_RAILGUN",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_RAILGUN.png"
+    },
+    ["WEAPON_RAILGUNXM3"] = {
+        label = "WEAPON_RAILGUNXM3",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_RAILGUNXM3.png"
+    },
+    ["WEAPON_RAYCARBINE"] = {
+        label = "WEAPON_RAYCARBINE",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_RAYCARBINE.png"
+    },
+    ["WEAPON_RAYMINIGUN"] = {
+        label = "WEAPON_RAYMINIGUN",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_RAYMINIGUN.png"
+    },
+    ["WEAPON_RAYPISTOL"] = {
+        label = "WEAPON_RAYPISTOL",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_RAYPISTOL.png"
+    },
+    ["WEAPON_REVOLVER"] = {
+        label = "WEAPON_REVOLVER",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_REVOLVER.png"
+    },
+    ["WEAPON_REVOLVER_MK2"] = {
+        label = "WEAPON_REVOLVER_MK2",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_REVOLVER_MK2.png"
+    },
+    ["WEAPON_RPG"] = {
+        label = "WEAPON_RPG",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_RPG.png"
+    },
+    ["WEAPON_SAWNOFFSHOTGUN"] = {
+        label = "WEAPON_SAWNOFFSHOTGUN",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_SAWNOFFSHOTGUN.png"
+    },
+    ["WEAPON_SMG"] = {
+        label = "WEAPON_SMG",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_SMG.png"
+    },
+    ["WEAPON_SMG_MK2"] = {
+        label = "WEAPON_SMG_MK2",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_SMG_MK2.png"
+    },
+    ["WEAPON_SMOKEGRENADE"] = {
+        label = "WEAPON_SMOKEGRENADE",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_SMOKEGRENADE.png"
+    },
+    ["WEAPON_SNIPERRIFLE"] = {
+        label = "WEAPON_SNIPERRIFLE",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_SNIPERRIFLE.png"
+    },
+    ["WEAPON_SNOWBALL"] = {
+        label = "WEAPON_SNOWBALL",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_SNOWBALL.png"
+    },
+    ["WEAPON_SNSPISTOL"] = {
+        label = "WEAPON_SNSPISTOL",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_SNSPISTOL.png"
+    },
+    ["WEAPON_SNSPISTOL_MK2"] = {
+        label = "WEAPON_SNSPISTOL_MK2",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_SNSPISTOL_MK2.png"
+    },
+    ["WEAPON_SPECIALCARBINE"] = {
+        label = "WEAPON_SPECIALCARBINE",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_SPECIALCARBINE.png"
+    },
+    ["WEAPON_SPECIALCARBINE_MK2"] = {
+        label = "WEAPON_SPECIALCARBINE_MK2",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_SPECIALCARBINE_MK2.png"
+    },
+    ["WEAPON_STICKYBOMB"] = {
+        label = "WEAPON_STICKYBOMB",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_STICKYBOMB.png"
+    },
+    ["WEAPON_STONE_HATCHET"] = {
+        label = "WEAPON_STONE_HATCHET",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_STONE_HATCHET.png"
+    },
+    ["WEAPON_STUNGUN"] = {
+        label = "WEAPON_STUNGUN",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_STUNGUN.png"
+    },
+    ["WEAPON_SWITCHBLADE"] = {
+        label = "WEAPON_SWITCHBLADE",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_SWITCHBLADE.png"
+    },
+    ["WEAPON_TECPISTOL"] = {
+        label = "WEAPON_TECPISTOL",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_TECPISTOL.png"
+    },
+    ["WEAPON_VINTAGEPISTOL"] = {
+        label = "WEAPON_VINTAGEPISTOL",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_VINTAGEPISTOL.png"
+    },
+    ["WEAPON_WRENCH"] = {
+        label = "WEAPON_WRENCH",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/WEAPON_WRENCH.png"
+    },
+    ["weed"] = {
+        label = "weed",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/weed.png"
+    },
+    ["ziptie"] = {
+        label = "ziptie",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseOxInventory/ziptie.png"
     }
 }
