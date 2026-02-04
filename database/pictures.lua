@@ -4715,5 +4715,9 @@ return {
     ["6_blip_tatoo_r"] = {
         label = "6_blip_tatoo_r",
         image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_tatoo_r.png"
+    },
+    ["2_cl_maison_rouge"] = {
+        label = "2_cl_maison_rouge",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/2.clémaison_rouge.png"
     }
 }
