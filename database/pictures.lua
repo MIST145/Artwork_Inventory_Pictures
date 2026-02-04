@@ -3039,5 +3039,229 @@ return {
     ["zebracamo_attachment"] = {
         label = "zebracamo_attachment",
         image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-BaseQBcore/zebracamo_attachment.png"
+    },
+    ["0"] = {
+        label = "0",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Cocktail_maker/0.png"
+    },
+    ["10"] = {
+        label = "10",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Cocktail_maker/10.png"
+    },
+    ["flame"] = {
+        label = "flame",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Cocktail_maker/flame.png"
+    },
+    ["glasse2_4"] = {
+        label = "glasse2_4",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Cocktail_maker/glasse2_4.png"
+    },
+    ["glasse2_4_2"] = {
+        label = "glasse2_4_2",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Cocktail_maker/glasse2_4_2.png"
+    },
+    ["glasse2_5"] = {
+        label = "glasse2_5",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Cocktail_maker/glasse2_5.png"
+    },
+    ["glasse2_5_2"] = {
+        label = "glasse2_5_2",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Cocktail_maker/glasse2_5_2.png"
+    },
+    ["glasse2_6"] = {
+        label = "glasse2_6",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Cocktail_maker/glasse2_6.png"
+    },
+    ["glasse2_7"] = {
+        label = "glasse2_7",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Cocktail_maker/glasse2_7.png"
+    },
+    ["glasse2_7_2"] = {
+        label = "glasse2_7_2",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Cocktail_maker/glasse2_7_2.png"
+    },
+    ["glasse2_8"] = {
+        label = "glasse2_8",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Cocktail_maker/glasse2_8.png"
+    },
+    ["glasse2_8_2"] = {
+        label = "glasse2_8_2",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Cocktail_maker/glasse2_8_2.png"
+    },
+    ["glasse2_9"] = {
+        label = "glasse2_9",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Cocktail_maker/glasse2_9.png"
+    },
+    ["glasse2_9_2"] = {
+        label = "glasse2_9_2",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Cocktail_maker/glasse2_9_2.png"
+    },
+    ["glasse2_10"] = {
+        label = "glasse2_10",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Cocktail_maker/glasse2_10.png"
+    },
+    ["glasse2_11"] = {
+        label = "glasse2_11",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Cocktail_maker/glasse2_11.png"
+    },
+    ["glasse2_12"] = {
+        label = "glasse2_12",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Cocktail_maker/glasse2_12.png"
+    },
+    ["glasse2_12_2"] = {
+        label = "glasse2_12_2",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Cocktail_maker/glasse2_12_2.png"
+    },
+    ["glasse2_13"] = {
+        label = "glasse2_13",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Cocktail_maker/glasse2_13.png"
+    },
+    ["glassemaker1"] = {
+        label = "glassemaker1",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Cocktail_maker/glassemaker1.png"
+    },
+    ["glassemaker1__down"] = {
+        label = "glassemaker1__down",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Cocktail_maker/glassemaker1__down.png"
+    },
+    ["glassemaker1__mid"] = {
+        label = "glassemaker1__mid",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Cocktail_maker/glassemaker1__mid.png"
+    },
+    ["glassemaker1__top"] = {
+        label = "glassemaker1__top",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Cocktail_maker/glassemaker1__top.png"
+    },
+    ["glassemaker1_shaddow"] = {
+        label = "glassemaker1_shaddow",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Cocktail_maker/glassemaker1_shaddow.png"
+    },
+    ["glassemaker1-foam"] = {
+        label = "glassemaker1-foam",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Cocktail_maker/glassemaker1-foam.png"
+    },
+    ["glassemaker2"] = {
+        label = "glassemaker2",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Cocktail_maker/glassemaker2.png"
+    },
+    ["glassemaker2__down"] = {
+        label = "glassemaker2__down",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Cocktail_maker/glassemaker2__down.png"
+    },
+    ["glassemaker2__mid"] = {
+        label = "glassemaker2__mid",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Cocktail_maker/glassemaker2__mid.png"
+    },
+    ["glassemaker2__top"] = {
+        label = "glassemaker2__top",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Cocktail_maker/glassemaker2__top.png"
+    },
+    ["glassemaker2_shadow"] = {
+        label = "glassemaker2_shadow",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Cocktail_maker/glassemaker2_shadow.png"
+    },
+    ["glassemaker3"] = {
+        label = "glassemaker3",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Cocktail_maker/glassemaker3.png"
+    },
+    ["glassemaker3__down"] = {
+        label = "glassemaker3__down",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Cocktail_maker/glassemaker3__down.png"
+    },
+    ["glassemaker3__mid"] = {
+        label = "glassemaker3__mid",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Cocktail_maker/glassemaker3__mid.png"
+    },
+    ["glassemaker3__top"] = {
+        label = "glassemaker3__top",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Cocktail_maker/glassemaker3__top.png"
+    },
+    ["glassemaker3_shaddow"] = {
+        label = "glassemaker3_shaddow",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Cocktail_maker/glassemaker3_shaddow.png"
+    },
+    ["glassemaker4"] = {
+        label = "glassemaker4",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Cocktail_maker/glassemaker4.png"
+    },
+    ["glassemaker4__down"] = {
+        label = "glassemaker4__down",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Cocktail_maker/glassemaker4__down.png"
+    },
+    ["glassemaker4__mid"] = {
+        label = "glassemaker4__mid",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Cocktail_maker/glassemaker4__mid.png"
+    },
+    ["glassemaker4__top"] = {
+        label = "glassemaker4__top",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Cocktail_maker/glassemaker4__top.png"
+    },
+    ["glassemaker4_shaddow"] = {
+        label = "glassemaker4_shaddow",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Cocktail_maker/glassemaker4_shaddow.png"
+    },
+    ["glassemaker5"] = {
+        label = "glassemaker5",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Cocktail_maker/glassemaker5.png"
+    },
+    ["glassemaker5__down"] = {
+        label = "glassemaker5__down",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Cocktail_maker/glassemaker5__down.png"
+    },
+    ["glassemaker5__mid"] = {
+        label = "glassemaker5__mid",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Cocktail_maker/glassemaker5__mid.png"
+    },
+    ["glassemaker5__top"] = {
+        label = "glassemaker5__top",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Cocktail_maker/glassemaker5__top.png"
+    },
+    ["glassemaker5_shaddow"] = {
+        label = "glassemaker5_shaddow",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Cocktail_maker/glassemaker5_shaddow.png"
+    },
+    ["glassemaker6"] = {
+        label = "glassemaker6",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Cocktail_maker/glassemaker6.png"
+    },
+    ["glassemaker6__down"] = {
+        label = "glassemaker6__down",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Cocktail_maker/glassemaker6__down.png"
+    },
+    ["glassemaker6__mid"] = {
+        label = "glassemaker6__mid",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Cocktail_maker/glassemaker6__mid.png"
+    },
+    ["glassemaker6__top"] = {
+        label = "glassemaker6__top",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Cocktail_maker/glassemaker6__top.png"
+    },
+    ["glassemaker6_shaddow"] = {
+        label = "glassemaker6_shaddow",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Cocktail_maker/glassemaker6_shaddow.png"
+    },
+    ["Irish_coffe"] = {
+        label = "Irish_coffe",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Cocktail_maker/Irish%20coffe.png"
+    },
+    ["shot"] = {
+        label = "shot",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Cocktail_maker/shot.png"
+    },
+    ["shuggar"] = {
+        label = "shuggar",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Cocktail_maker/shuggar.png"
+    },
+    ["test1"] = {
+        label = "test1",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Cocktail_maker/test1.png"
+    },
+    ["test2"] = {
+        label = "test2",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Cocktail_maker/test2.png"
+    },
+    ["test3"] = {
+        label = "test3",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Cocktail_maker/test3.png"
     }
 }
