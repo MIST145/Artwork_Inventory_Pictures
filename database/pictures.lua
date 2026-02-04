@@ -3371,5 +3371,441 @@ return {
     ["vhs_vide"] = {
         label = "vhs_vide",
         image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Custom_Item/vhs_vide.png"
+    },
+    ["0_assiette"] = {
+        label = "0_assiette",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/0_assiette.png"
+    },
+    ["0_assiette2"] = {
+        label = "0_assiette2",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/0_assiette2.png"
+    },
+    ["0_assiette3"] = {
+        label = "0_assiette3",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/0_assiette3.png"
+    },
+    ["0_assiette4"] = {
+        label = "0_assiette4",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/0_assiette4.png"
+    },
+    ["0_assiette5"] = {
+        label = "0_assiette5",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/0_assiette5.png"
+    },
+    ["0_boite"] = {
+        label = "0_boite",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/0_boite.png"
+    },
+    ["0_boite2"] = {
+        label = "0_boite2",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/0_boite2.png"
+    },
+    ["1_boeuf"] = {
+        label = "1_boeuf",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/1_boeuf.png"
+    },
+    ["1_burger"] = {
+        label = "1_burger",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/1_burger.png"
+    },
+    ["1_cheesecake"] = {
+        label = "1_cheesecake",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/1_cheesecake.png"
+    },
+    ["1_crepe"] = {
+        label = "1_crepe",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/1_crepe.png"
+    },
+    ["1_croquemonssieur"] = {
+        label = "1_croquemonssieur",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/1_croquemonssieur.png"
+    },
+    ["1_eggplant"] = {
+        label = "1_eggplant",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/1_eggplant.png"
+    },
+    ["1_fish_meat_cooked"] = {
+        label = "1_fish_meat_cooked",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/1_fish_meat_cooked.png"
+    },
+    ["1_fish_red_meat_cooked"] = {
+        label = "1_fish_red_meat_cooked",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/1_fish_red_meat_cooked.png"
+    },
+    ["1_fishchips"] = {
+        label = "1_fishchips",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/1_fishchips.png"
+    },
+    ["1_gateau_choco"] = {
+        label = "1_gateau_choco",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/1_gateau_choco.png"
+    },
+    ["1_gateau_citron"] = {
+        label = "1_gateau_citron",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/1_gateau_citron.png"
+    },
+    ["1_gateau_fraise"] = {
+        label = "1_gateau_fraise",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/1_gateau_fraise.png"
+    },
+    ["1_gateau_pomme"] = {
+        label = "1_gateau_pomme",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/1_gateau_pomme.png"
+    },
+    ["1_gauffre"] = {
+        label = "1_gauffre",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/1_gauffre.png"
+    },
+    ["1_glace"] = {
+        label = "1_glace",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/1_glace.png"
+    },
+    ["1_mais"] = {
+        label = "1_mais",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/1_mais.png"
+    },
+    ["1_Meat_fish_meat"] = {
+        label = "1_Meat_fish_meat",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/1_Meat_fish_meat.png"
+    },
+    ["1_Meat_large_fine_fish"] = {
+        label = "1_Meat_large_fine_fish",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/1_Meat_large_fine_fish.png"
+    },
+    ["1_Meat_large_fish"] = {
+        label = "1_Meat_large_fish",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/1_Meat_large_fish.png"
+    },
+    ["1_Meatball"] = {
+        label = "1_Meatball",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/1_Meatball.png"
+    },
+    ["1_MeatBeef"] = {
+        label = "1_MeatBeef",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/1_MeatBeef.png"
+    },
+    ["1_MeatBigBush"] = {
+        label = "1_MeatBigBush",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/1_MeatBigBush.png"
+    },
+    ["1_MeatBird"] = {
+        label = "1_MeatBird",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/1_MeatBird.png"
+    },
+    ["1_MeatChicken"] = {
+        label = "1_MeatChicken",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/1_MeatChicken.png"
+    },
+    ["1_MeatDeer"] = {
+        label = "1_MeatDeer",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/1_MeatDeer.png"
+    },
+    ["1_MeatFine"] = {
+        label = "1_MeatFine",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/1_MeatFine.png"
+    },
+    ["1_MeatFur"] = {
+        label = "1_MeatFur",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/1_MeatFur.png"
+    },
+    ["1_MeatHuman"] = {
+        label = "1_MeatHuman",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/1_MeatHuman.png"
+    },
+    ["1_MeatLargFine"] = {
+        label = "1_MeatLargFine",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/1_MeatLargFine.png"
+    },
+    ["1_MeatOverPriced"] = {
+        label = "1_MeatOverPriced",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/1_MeatOverPriced.png"
+    },
+    ["1_MeatOverPricedBird"] = {
+        label = "1_MeatOverPricedBird",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/1_MeatOverPricedBird.png"
+    },
+    ["1_MeatPork"] = {
+        label = "1_MeatPork",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/1_MeatPork.png"
+    },
+    ["1_MeatSmallBush"] = {
+        label = "1_MeatSmallBush",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/1_MeatSmallBush.png"
+    },
+    ["1_oeuf"] = {
+        label = "1_oeuf",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/1_oeuf.png"
+    },
+    ["1_paprika"] = {
+        label = "1_paprika",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/1_paprika.png"
+    },
+    ["1_pates"] = {
+        label = "1_pates",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/1_pates.png"
+    },
+    ["1_pea"] = {
+        label = "1_pea",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/1_pea.png"
+    },
+    ["1_pizza"] = {
+        label = "1_pizza",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/1_pizza.png"
+    },
+    ["1_porc"] = {
+        label = "1_porc",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/1_porc.png"
+    },
+    ["1_potato"] = {
+        label = "1_potato",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/1_potato.png"
+    },
+    ["1_poulet"] = {
+        label = "1_poulet",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/1_poulet.png"
+    },
+    ["1_riz"] = {
+        label = "1_riz",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/1_riz.png"
+    },
+    ["1_riz_2"] = {
+        label = "1_riz_2",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/1_riz_2.png"
+    },
+    ["1_salade"] = {
+        label = "1_salade",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/1_salade.png"
+    },
+    ["1_sandwitch"] = {
+        label = "1_sandwitch",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/1_sandwitch.png"
+    },
+    ["1_sauce_-curry"] = {
+        label = "1_sauce_-curry",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/1_sauce_-curry.png"
+    },
+    ["1_saumon"] = {
+        label = "1_saumon",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/1_saumon.png"
+    },
+    ["1_steakboeuf"] = {
+        label = "1_steakboeuf",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/1_steakboeuf.png"
+    },
+    ["1_tofu"] = {
+        label = "1_tofu",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/1_tofu.png"
+    },
+    ["1_tomate"] = {
+        label = "1_tomate",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/1_tomate.png"
+    },
+    ["2_boeuf"] = {
+        label = "2_boeuf",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/2_boeuf.png"
+    },
+    ["2_carrot"] = {
+        label = "2_carrot",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/2_carrot.png"
+    },
+    ["2_eggplant"] = {
+        label = "2_eggplant",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/2_eggplant.png"
+    },
+    ["2_farine_oeuf"] = {
+        label = "2_farine_oeuf",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/2_farine_oeuf.png"
+    },
+    ["2_fraise"] = {
+        label = "2_fraise",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/2_fraise.png"
+    },
+    ["2_gauffre"] = {
+        label = "2_gauffre",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/2_gauffre.png"
+    },
+    ["2_glace"] = {
+        label = "2_glace",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/2_glace.png"
+    },
+    ["2_mais"] = {
+        label = "2_mais",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/2_mais.png"
+    },
+    ["2_Meatball"] = {
+        label = "2_Meatball",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/2_Meatball.png"
+    },
+    ["2_mosh"] = {
+        label = "2_mosh",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/2_mosh.png"
+    },
+    ["2_oeuf"] = {
+        label = "2_oeuf",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/2_oeuf.png"
+    },
+    ["2_pates"] = {
+        label = "2_pates",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/2_pates.png"
+    },
+    ["2_pea"] = {
+        label = "2_pea",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/2_pea.png"
+    },
+    ["2_pomme"] = {
+        label = "2_pomme",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/2_pomme.png"
+    },
+    ["2_porc"] = {
+        label = "2_porc",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/2_porc.png"
+    },
+    ["2_potato"] = {
+        label = "2_potato",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/2_potato.png"
+    },
+    ["2_poulet"] = {
+        label = "2_poulet",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/2_poulet.png"
+    },
+    ["2_riz"] = {
+        label = "2_riz",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/2_riz.png"
+    },
+    ["2_salade"] = {
+        label = "2_salade",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/2_salade.png"
+    },
+    ["2_sandwitch"] = {
+        label = "2_sandwitch",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/2_sandwitch.png"
+    },
+    ["2_sauce_-curry"] = {
+        label = "2_sauce_-curry",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/2_sauce_-curry.png"
+    },
+    ["2_saumon"] = {
+        label = "2_saumon",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/2_saumon.png"
+    },
+    ["2_tofu"] = {
+        label = "2_tofu",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/2_tofu.png"
+    },
+    ["2_tomate"] = {
+        label = "2_tomate",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/2_tomate.png"
+    },
+    ["3_boeuf"] = {
+        label = "3_boeuf",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/3_boeuf.png"
+    },
+    ["3_carrot"] = {
+        label = "3_carrot",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/3_carrot.png"
+    },
+    ["3_eggplant"] = {
+        label = "3_eggplant",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/3_eggplant.png"
+    },
+    ["3_farine_oeuf"] = {
+        label = "3_farine_oeuf",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/3_farine_oeuf.png"
+    },
+    ["3_fraise"] = {
+        label = "3_fraise",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/3_fraise.png"
+    },
+    ["3_gauffre"] = {
+        label = "3_gauffre",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/3_gauffre.png"
+    },
+    ["3_glace"] = {
+        label = "3_glace",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/3_glace.png"
+    },
+    ["3_mais"] = {
+        label = "3_mais",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/3_mais.png"
+    },
+    ["3_Meatball"] = {
+        label = "3_Meatball",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/3_Meatball.png"
+    },
+    ["3_mosh"] = {
+        label = "3_mosh",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/3_mosh.png"
+    },
+    ["3_oeuf"] = {
+        label = "3_oeuf",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/3_oeuf.png"
+    },
+    ["3_pates"] = {
+        label = "3_pates",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/3_pates.png"
+    },
+    ["3_pea"] = {
+        label = "3_pea",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/3_pea.png"
+    },
+    ["3_pomme"] = {
+        label = "3_pomme",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/3_pomme.png"
+    },
+    ["3_porc"] = {
+        label = "3_porc",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/3_porc.png"
+    },
+    ["3_potato"] = {
+        label = "3_potato",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/3_potato.png"
+    },
+    ["3_poulet"] = {
+        label = "3_poulet",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/3_poulet.png"
+    },
+    ["3_riz"] = {
+        label = "3_riz",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/3_riz.png"
+    },
+    ["3_salade"] = {
+        label = "3_salade",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/3_salade.png"
+    },
+    ["3_sandwitch"] = {
+        label = "3_sandwitch",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/3_sandwitch.png"
+    },
+    ["3_sauce_-curry"] = {
+        label = "3_sauce_-curry",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/3_sauce_-curry.png"
+    },
+    ["3_saumon"] = {
+        label = "3_saumon",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/3_saumon.png"
+    },
+    ["3_tofu"] = {
+        label = "3_tofu",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/3_tofu.png"
+    },
+    ["3_tomate"] = {
+        label = "3_tomate",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/3_tomate.png"
+    },
+    ["4_bad"] = {
+        label = "4_bad",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/4_bad.png"
+    },
+    ["4_boite2"] = {
+        label = "4_boite2",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/4_boite2.png"
+    },
+    ["4_burn"] = {
+        label = "4_burn",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/4_burn.png"
+    },
+    ["4_givre"] = {
+        label = "4_givre",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/4_givre.png"
     }
 }
