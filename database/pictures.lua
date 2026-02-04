@@ -3263,5 +3263,113 @@ return {
     ["test3"] = {
         label = "test3",
         image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Cocktail_maker/test3.png"
+    },
+    ["0_utilisation"] = {
+        label = "0_utilisation",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Custom_Item/0.utilisation.png"
+    },
+    ["cd_k7_placeolder"] = {
+        label = "cd_k7_placeolder",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Custom_Item/cd_k7_placeolder.png"
+    },
+    ["cd_k7_template"] = {
+        label = "cd_k7_template",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Custom_Item/cd_k7_template.png"
+    },
+    ["cd_k7_vide"] = {
+        label = "cd_k7_vide",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Custom_Item/cd_k7_vide.png"
+    },
+    ["cd_placeolder"] = {
+        label = "cd_placeolder",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Custom_Item/cd_placeolder.png"
+    },
+    ["cd_template"] = {
+        label = "cd_template",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Custom_Item/cd_template.png"
+    },
+    ["cd_vide"] = {
+        label = "cd_vide",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Custom_Item/cd_vide.png"
+    },
+    ["journal_placeolder"] = {
+        label = "journal_placeolder",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Custom_Item/journal_placeolder.png"
+    },
+    ["journal_template"] = {
+        label = "journal_template",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Custom_Item/journal_template.png"
+    },
+    ["journal_vide"] = {
+        label = "journal_vide",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Custom_Item/journal_vide.png"
+    },
+    ["livre_placeolder"] = {
+        label = "livre_placeolder",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Custom_Item/livre_placeolder.png"
+    },
+    ["livre_template"] = {
+        label = "livre_template",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Custom_Item/livre_template.png"
+    },
+    ["livre_vide"] = {
+        label = "livre_vide",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Custom_Item/livre_vide.png"
+    },
+    ["outfit"] = {
+        label = "outfit",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Custom_Item/outfit.png"
+    },
+    ["outfit_template"] = {
+        label = "outfit_template",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Custom_Item/outfit_template.png"
+    },
+    ["outfit_vide"] = {
+        label = "outfit_vide",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Custom_Item/outfit_vide.png"
+    },
+    ["polaroid_photo_placeolder"] = {
+        label = "polaroid_photo_placeolder",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Custom_Item/polaroid_photo_placeolder.png"
+    },
+    ["polaroid_photo_template"] = {
+        label = "polaroid_photo_template",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Custom_Item/polaroid_photo_template.png"
+    },
+    ["polaroid_photo_vide"] = {
+        label = "polaroid_photo_vide",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Custom_Item/polaroid_photo_vide.png"
+    },
+    ["tableau_placeolder"] = {
+        label = "tableau_placeolder",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Custom_Item/tableau_placeolder.png"
+    },
+    ["tableau_template"] = {
+        label = "tableau_template",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Custom_Item/tableau_template.png"
+    },
+    ["tableau_vide"] = {
+        label = "tableau_vide",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Custom_Item/tableau_vide.png"
+    },
+    ["tatoo_ink_1"] = {
+        label = "tatoo_ink_1",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Custom_Item/tatoo_ink%201.png"
+    },
+    ["tatoo_ink_2"] = {
+        label = "tatoo_ink_2",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Custom_Item/tatoo_ink%202.png"
+    },
+    ["vhs_placeolder"] = {
+        label = "vhs_placeolder",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Custom_Item/vhs_placeolder.png"
+    },
+    ["vhs_template"] = {
+        label = "vhs_template",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Custom_Item/vhs_template.png"
+    },
+    ["vhs_vide"] = {
+        label = "vhs_vide",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Custom_Item/vhs_vide.png"
     }
 }
