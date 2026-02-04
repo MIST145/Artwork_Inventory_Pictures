@@ -4827,5 +4827,1261 @@ return {
     ["gameVR_vide"] = {
         label = "gameVR_vide",
         image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Minigame/gameVR_vide.png"
+    },
+    ["absinthe"] = {
+        label = "absinthe",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/absinthe.png"
+    },
+    ["alcool_champagne"] = {
+        label = "alcool_champagne",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/alcool_champagne.png"
+    },
+    ["alcool_champagne_antoinette"] = {
+        label = "alcool_champagne_antoinette",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/alcool_champagne_antoinette.png"
+    },
+    ["alcool_champagne_bleuterd"] = {
+        label = "alcool_champagne_bleuterd",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/alcool_champagne_bleuterd.png"
+    },
+    ["alcool_champagne_leCocteau"] = {
+        label = "alcool_champagne_leCocteau",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/alcool_champagne_leCocteau.png"
+    },
+    ["alcool_champagne_robespierre"] = {
+        label = "alcool_champagne_robespierre",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/alcool_champagne_robespierre.png"
+    },
+    ["alcool_champagne_talloires"] = {
+        label = "alcool_champagne_talloires",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/alcool_champagne_talloires.png"
+    },
+    ["Alcool_coffee"] = {
+        label = "Alcool_coffee",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Alcool_coffee.png"
+    },
+    ["alcool_gin"] = {
+        label = "alcool_gin",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/alcool_gin.png"
+    },
+    ["alcool_gin_dry"] = {
+        label = "alcool_gin_dry",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/alcool_gin_dry.png"
+    },
+    ["alcool_pinkWine"] = {
+        label = "alcool_pinkWine",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/alcool_pinkWine.png"
+    },
+    ["alcool_pinkWine_LeBoucard"] = {
+        label = "alcool_pinkWine_LeBoucard",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/alcool_pinkWine_LeBoucard.png"
+    },
+    ["alcool_pinkWine_RedMist"] = {
+        label = "alcool_pinkWine_RedMist",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/alcool_pinkWine_RedMist.png"
+    },
+    ["alcool_pinkWine_TallIsland"] = {
+        label = "alcool_pinkWine_TallIsland",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/alcool_pinkWine_TallIsland.png"
+    },
+    ["alcool_pinkWine_twoRoosters"] = {
+        label = "alcool_pinkWine_twoRoosters",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/alcool_pinkWine_twoRoosters.png"
+    },
+    ["alcool_redwine"] = {
+        label = "alcool_redwine",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/alcool_redwine.png"
+    },
+    ["alcool_redwine_Bourgogne"] = {
+        label = "alcool_redwine_Bourgogne",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/alcool_redwine_Bourgogne.png"
+    },
+    ["alcool_redwine_costaDelPerro"] = {
+        label = "alcool_redwine_costaDelPerro",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/alcool_redwine_costaDelPerro.png"
+    },
+    ["alcool_redwine_fiume"] = {
+        label = "alcool_redwine_fiume",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/alcool_redwine_fiume.png"
+    },
+    ["alcool_redwine_rockfordHill"] = {
+        label = "alcool_redwine_rockfordHill",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/alcool_redwine_rockfordHill.png"
+    },
+    ["alcool_redwine_syrah"] = {
+        label = "alcool_redwine_syrah",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/alcool_redwine_syrah.png"
+    },
+    ["alcool_redwine_vinewood"] = {
+        label = "alcool_redwine_vinewood",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/alcool_redwine_vinewood.png"
+    },
+    ["alcool_rhum"] = {
+        label = "alcool_rhum",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/alcool_rhum.png"
+    },
+    ["alcool_rum"] = {
+        label = "alcool_rum",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/alcool_rum.png"
+    },
+    ["alcool_sak_"] = {
+        label = "alcool_sak_",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/alcool_saké.png"
+    },
+    ["alcool_SchanyJager"] = {
+        label = "alcool_SchanyJager",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/alcool_SchanyJager.png"
+    },
+    ["alcool_tequila"] = {
+        label = "alcool_tequila",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/alcool_tequila.png"
+    },
+    ["alcool_vodka"] = {
+        label = "alcool_vodka",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/alcool_vodka.png"
+    },
+    ["alcool_vodka_blue"] = {
+        label = "alcool_vodka_blue",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/alcool_vodka_blue.png"
+    },
+    ["alcool_vodka_green"] = {
+        label = "alcool_vodka_green",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/alcool_vodka_green.png"
+    },
+    ["alcool_vodka_halinsky"] = {
+        label = "alcool_vodka_halinsky",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/alcool_vodka_halinsky.png"
+    },
+    ["alcool_vodka_purple"] = {
+        label = "alcool_vodka_purple",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/alcool_vodka_purple.png"
+    },
+    ["alcool_vodka_x"] = {
+        label = "alcool_vodka_x",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/alcool_vodka_x.png"
+    },
+    ["alcool_whiskey_mount"] = {
+        label = "alcool_whiskey_mount",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/alcool_whiskey_mount.png"
+    },
+    ["alcool_whiteWine_bordeaux"] = {
+        label = "alcool_whiteWine_bordeaux",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/alcool_whiteWine_bordeaux.png"
+    },
+    ["alcool_whitewine_fallingFish_chardonnay"] = {
+        label = "alcool_whitewine_fallingFish_chardonnay",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/alcool_whitewine_fallingFish_chardonnay.png"
+    },
+    ["alcool_whitewine_fallingFish_merlot"] = {
+        label = "alcool_whitewine_fallingFish_merlot",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/alcool_whitewine_fallingFish_merlot.png"
+    },
+    ["alcool_whitewine_fallingFish_syrah"] = {
+        label = "alcool_whitewine_fallingFish_syrah",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/alcool_whitewine_fallingFish_syrah.png"
+    },
+    ["alcool_whitewine_figrio"] = {
+        label = "alcool_whitewine_figrio",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/alcool_whitewine_figrio.png"
+    },
+    ["alcool_whiteWine_marlowe"] = {
+        label = "alcool_whiteWine_marlowe",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/alcool_whiteWine_marlowe.png"
+    },
+    ["alcool_whitewine_rockfordHill"] = {
+        label = "alcool_whitewine_rockfordHill",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/alcool_whitewine_rockfordHill.png"
+    },
+    ["alcool_Wisky"] = {
+        label = "alcool_Wisky",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/alcool_Wisky.png"
+    },
+    ["Amero"] = {
+        label = "Amero",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Amero.png"
+    },
+    ["beer_am"] = {
+        label = "beer_am",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/beer_am.png"
+    },
+    ["beer_barracho"] = {
+        label = "beer_barracho",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/beer_barracho.png"
+    },
+    ["beer_benedict"] = {
+        label = "beer_benedict",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/beer_benedict.png"
+    },
+    ["beer_BerraPuttana"] = {
+        label = "beer_BerraPuttana",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/beer_BerraPuttana.png"
+    },
+    ["Beer_Blarneys"] = {
+        label = "Beer_Blarneys",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Beer_Blarneys.png"
+    },
+    ["beer_dignity"] = {
+        label = "beer_dignity",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/beer_dignity.png"
+    },
+    ["beer_dusche"] = {
+        label = "beer_dusche",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/beer_dusche.png"
+    },
+    ["beer_IPA"] = {
+        label = "beer_IPA",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/beer_IPA.png"
+    },
+    ["beer_jackey"] = {
+        label = "beer_jackey",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/beer_jackey.png"
+    },
+    ["beer_logger"] = {
+        label = "beer_logger",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/beer_logger.png"
+    },
+    ["beer_Patriot"] = {
+        label = "beer_Patriot",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/beer_Patriot.png"
+    },
+    ["beer_pibwasser"] = {
+        label = "beer_pibwasser",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/beer_pibwasser.png"
+    },
+    ["beer_Pissh"] = {
+        label = "beer_Pissh",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/beer_Pissh.png"
+    },
+    ["beer_PissNein"] = {
+        label = "beer_PissNein",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/beer_PissNein.png"
+    },
+    ["beer_Pride"] = {
+        label = "beer_Pride",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/beer_Pride.png"
+    },
+    ["beer_stronzo"] = {
+        label = "beer_stronzo",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/beer_stronzo.png"
+    },
+    ["beer_thaw"] = {
+        label = "beer_thaw",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/beer_thaw.png"
+    },
+    ["beerbox_AM"] = {
+        label = "beerbox_AM",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/beerbox_AM.png"
+    },
+    ["beerbox_barrocho"] = {
+        label = "beerbox_barrocho",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/beerbox_barrocho.png"
+    },
+    ["beerbox_benedict"] = {
+        label = "beerbox_benedict",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/beerbox_benedict.png"
+    },
+    ["beerbox_blarneys"] = {
+        label = "beerbox_blarneys",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/beerbox_blarneys.png"
+    },
+    ["beerbox_dusche"] = {
+        label = "beerbox_dusche",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/beerbox_dusche.png"
+    },
+    ["beerbox_jakeys"] = {
+        label = "beerbox_jakeys",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/beerbox_jakeys.png"
+    },
+    ["beerbox_logger"] = {
+        label = "beerbox_logger",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/beerbox_logger.png"
+    },
+    ["beerbox_patriot"] = {
+        label = "beerbox_patriot",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/beerbox_patriot.png"
+    },
+    ["beerbox_pibwasser"] = {
+        label = "beerbox_pibwasser",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/beerbox_pibwasser.png"
+    },
+    ["beerbox_pride"] = {
+        label = "beerbox_pride",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/beerbox_pride.png"
+    },
+    ["beerGlass_Amber"] = {
+        label = "beerGlass_Amber",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/beerGlass_Amber.png"
+    },
+    ["beerGlass_IPA"] = {
+        label = "beerGlass_IPA",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/beerGlass_IPA.png"
+    },
+    ["beerGlass_Kreik"] = {
+        label = "beerGlass_Kreik",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/beerGlass_Kreik.png"
+    },
+    ["beerglass_pils"] = {
+        label = "beerglass_pils",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/beerglass_pils.png"
+    },
+    ["beerGlass_Stoot"] = {
+        label = "beerGlass_Stoot",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/beerGlass_Stoot.png"
+    },
+    ["beerglass_white"] = {
+        label = "beerglass_white",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/beerglass_white.png"
+    },
+    ["beerkeg"] = {
+        label = "beerkeg",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/beerkeg.png"
+    },
+    ["Bitter"] = {
+        label = "Bitter",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Bitter.png"
+    },
+    ["bourbon"] = {
+        label = "bourbon",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/bourbon.png"
+    },
+    ["Brandy_cardiaque"] = {
+        label = "Brandy_cardiaque",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Brandy_cardiaque.png"
+    },
+    ["Cocktail_Aviation"] = {
+        label = "Cocktail_Aviation",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Cocktail_Aviation.png"
+    },
+    ["cocktail_B52"] = {
+        label = "cocktail_B52",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/cocktail_B52.png"
+    },
+    ["cocktail_bacardi"] = {
+        label = "cocktail_bacardi",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/cocktail_bacardi.png"
+    },
+    ["cocktail_Bellini"] = {
+        label = "cocktail_Bellini",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/cocktail_Bellini.png"
+    },
+    ["cocktail_bloody_marry"] = {
+        label = "cocktail_bloody_marry",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/cocktail_bloody%20marry.png"
+    },
+    ["cocktail_BlueLagoon"] = {
+        label = "cocktail_BlueLagoon",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/cocktail_BlueLagoon.png"
+    },
+    ["cocktail_cosmopolitan"] = {
+        label = "cocktail_cosmopolitan",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/cocktail_cosmopolitan.png"
+    },
+    ["cocktail_cuba_libr_"] = {
+        label = "cocktail_cuba_libr_",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/cocktail_cuba libré.png"
+    },
+    ["Cocktail_ExpressoMartini"] = {
+        label = "Cocktail_ExpressoMartini",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Cocktail_ExpressoMartini.png"
+    },
+    ["cocktail_GinTonic"] = {
+        label = "cocktail_GinTonic",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/cocktail_GinTonic.png"
+    },
+    ["Cocktail_IrishCoffe"] = {
+        label = "Cocktail_IrishCoffe",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Cocktail_IrishCoffe.png"
+    },
+    ["Cocktail_JaggerBomb"] = {
+        label = "Cocktail_JaggerBomb",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Cocktail_JaggerBomb.png"
+    },
+    ["cocktail_LongIsland"] = {
+        label = "cocktail_LongIsland",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/cocktail_LongIsland.png"
+    },
+    ["cocktail_martini"] = {
+        label = "cocktail_martini",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/cocktail_martini.png"
+    },
+    ["cocktail_morijo"] = {
+        label = "cocktail_morijo",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/cocktail_morijo.png"
+    },
+    ["cocktail_negroni"] = {
+        label = "cocktail_negroni",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/cocktail_negroni.png"
+    },
+    ["cocktail_pinia_colada"] = {
+        label = "cocktail_pinia_colada",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/cocktail_pinia%20colada.png"
+    },
+    ["cocktail_Rainbow"] = {
+        label = "cocktail_Rainbow",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/cocktail_Rainbow.png"
+    },
+    ["cocktail_Spritz"] = {
+        label = "cocktail_Spritz",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/cocktail_Spritz.png"
+    },
+    ["cocktail_sweetPoison"] = {
+        label = "cocktail_sweetPoison",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/cocktail_sweetPoison.png"
+    },
+    ["cocktail_TequilaSunrise"] = {
+        label = "cocktail_TequilaSunrise",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/cocktail_TequilaSunrise.png"
+    },
+    ["cocktail_zombie"] = {
+        label = "cocktail_zombie",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/cocktail_zombie.png"
+    },
+    ["cognac_bourgeoix"] = {
+        label = "cognac_bourgeoix",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/cognac_bourgeoix.png"
+    },
+    ["curaco"] = {
+        label = "curaco",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/curaco.png"
+    },
+    ["Dirty_wine"] = {
+        label = "Dirty_wine",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Dirty_wine.png"
+    },
+    ["Glass_absinthe"] = {
+        label = "Glass_absinthe",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Glass_absinthe.png"
+    },
+    ["glass_champagne"] = {
+        label = "glass_champagne",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_champagne.png"
+    },
+    ["Glass_curaco"] = {
+        label = "Glass_curaco",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Glass_curaco.png"
+    },
+    ["Glass_gin"] = {
+        label = "Glass_gin",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Glass_gin.png"
+    },
+    ["glass_Liqueur_aloevera"] = {
+        label = "glass_Liqueur_aloevera",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Liqueur_aloevera.png"
+    },
+    ["glass_Liqueur_apple"] = {
+        label = "glass_Liqueur_apple",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Liqueur_apple.png"
+    },
+    ["glass_Liqueur_banana"] = {
+        label = "glass_Liqueur_banana",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Liqueur_banana.png"
+    },
+    ["glass_Liqueur_cacao"] = {
+        label = "glass_Liqueur_cacao",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Liqueur_cacao.png"
+    },
+    ["glass_Liqueur_cactus"] = {
+        label = "glass_Liqueur_cactus",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Liqueur_cactus.png"
+    },
+    ["glass_Liqueur_canabis"] = {
+        label = "glass_Liqueur_canabis",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Liqueur_canabis.png"
+    },
+    ["glass_Liqueur_carrot"] = {
+        label = "glass_Liqueur_carrot",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Liqueur_carrot.png"
+    },
+    ["glass_Liqueur_cocaine"] = {
+        label = "glass_Liqueur_cocaine",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Liqueur_cocaine.png"
+    },
+    ["glass_Liqueur_coconut"] = {
+        label = "glass_Liqueur_coconut",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Liqueur_coconut.png"
+    },
+    ["glass_Liqueur_coffee"] = {
+        label = "glass_Liqueur_coffee",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Liqueur_coffee.png"
+    },
+    ["glass_Liqueur_cola"] = {
+        label = "glass_Liqueur_cola",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Liqueur_cola.png"
+    },
+    ["glass_Liqueur_corn"] = {
+        label = "glass_Liqueur_corn",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Liqueur_corn.png"
+    },
+    ["glass_Liqueur_cucumble"] = {
+        label = "glass_Liqueur_cucumble",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Liqueur_cucumble.png"
+    },
+    ["glass_Liqueur_Dragonfruit"] = {
+        label = "glass_Liqueur_Dragonfruit",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Liqueur_Dragonfruit.png"
+    },
+    ["glass_Liqueur_Flower_bad_Agapanthus"] = {
+        label = "glass_Liqueur_Flower_bad_Agapanthus",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Liqueur_Flower_bad_Agapanthus.png"
+    },
+    ["glass_Liqueur_Flower_bad_Angel_Trumpet"] = {
+        label = "glass_Liqueur_Flower_bad_Angel_Trumpet",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Liqueur_Flower_bad_Angel_Trumpet.png"
+    },
+    ["glass_Liqueur_Flower_bad_Calla_Lily"] = {
+        label = "glass_Liqueur_Flower_bad_Calla_Lily",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Liqueur_Flower_bad_Calla_Lily.png"
+    },
+    ["glass_Liqueur_Flower_bad_Castor_Bean"] = {
+        label = "glass_Liqueur_Flower_bad_Castor_Bean",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Liqueur_Flower_bad_Castor_Bean.png"
+    },
+    ["glass_Liqueur_Flower_bad_Daffodil"] = {
+        label = "glass_Liqueur_Flower_bad_Daffodil",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Liqueur_Flower_bad_Daffodil.png"
+    },
+    ["glass_Liqueur_Flower_bad_Delphinium"] = {
+        label = "glass_Liqueur_Flower_bad_Delphinium",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Liqueur_Flower_bad_Delphinium.png"
+    },
+    ["glass_Liqueur_Flower_bad_Foxglove"] = {
+        label = "glass_Liqueur_Flower_bad_Foxglove",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Liqueur_Flower_bad_Foxglove.png"
+    },
+    ["glass_Liqueur_Flower_bad_Heliotrope"] = {
+        label = "glass_Liqueur_Flower_bad_Heliotrope",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Liqueur_Flower_bad_Heliotrope.png"
+    },
+    ["glass_Liqueur_Flower_good_Achillea_millefolium"] = {
+        label = "glass_Liqueur_Flower_good_Achillea_millefolium",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Liqueur_Flower_good_Achillea_millefolium.png"
+    },
+    ["glass_Liqueur_Flower_good_Black_sage"] = {
+        label = "glass_Liqueur_Flower_good_Black_sage",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Liqueur_Flower_good_Black_sage.png"
+    },
+    ["glass_Liqueur_Flower_good_Broadleaf_plantain"] = {
+        label = "glass_Liqueur_Flower_good_Broadleaf_plantain",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Liqueur_Flower_good_Broadleaf_plantain.png"
+    },
+    ["glass_Liqueur_Flower_good_California_poppy"] = {
+        label = "glass_Liqueur_Flower_good_California_poppy",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Liqueur_Flower_good_California_poppy.png"
+    },
+    ["glass_Liqueur_Flower_good_Ephedra"] = {
+        label = "glass_Liqueur_Flower_good_Ephedra",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Liqueur_Flower_good_Ephedra.png"
+    },
+    ["glass_Liqueur_Flower_good_Horsetail"] = {
+        label = "glass_Liqueur_Flower_good_Horsetail",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Liqueur_Flower_good_Horsetail.png"
+    },
+    ["glass_Liqueur_Flower_good_Matilija_poppy"] = {
+        label = "glass_Liqueur_Flower_good_Matilija_poppy",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Liqueur_Flower_good_Matilija_poppy.png"
+    },
+    ["glass_Liqueur_Flower_good_Willow_Salix"] = {
+        label = "glass_Liqueur_Flower_good_Willow_Salix",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Liqueur_Flower_good_Willow_Salix.png"
+    },
+    ["glass_Liqueur_Flower_neutre_bleeding_hearts"] = {
+        label = "glass_Liqueur_Flower_neutre_bleeding_hearts",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Liqueur_Flower_neutre_bleeding_hearts.png"
+    },
+    ["glass_Liqueur_Flower_neutre_buttercup"] = {
+        label = "glass_Liqueur_Flower_neutre_buttercup",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Liqueur_Flower_neutre_buttercup.png"
+    },
+    ["glass_Liqueur_Flower_neutre_chinese_house"] = {
+        label = "glass_Liqueur_Flower_neutre_chinese_house",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Liqueur_Flower_neutre_chinese_house.png"
+    },
+    ["glass_Liqueur_Flower_neutre_colombine"] = {
+        label = "glass_Liqueur_Flower_neutre_colombine",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Liqueur_Flower_neutre_colombine.png"
+    },
+    ["glass_Liqueur_Flower_neutre_common_monkeyflower"] = {
+        label = "glass_Liqueur_Flower_neutre_common_monkeyflower",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Liqueur_Flower_neutre_common_monkeyflower.png"
+    },
+    ["glass_Liqueur_Flower_neutre_globe_gilia"] = {
+        label = "glass_Liqueur_Flower_neutre_globe_gilia",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Liqueur_Flower_neutre_globe_gilia.png"
+    },
+    ["glass_Liqueur_Flower_neutre_tidy_tips"] = {
+        label = "glass_Liqueur_Flower_neutre_tidy_tips",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Liqueur_Flower_neutre_tidy_tips.png"
+    },
+    ["glass_Liqueur_ginger"] = {
+        label = "glass_Liqueur_ginger",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Liqueur_ginger.png"
+    },
+    ["glass_Liqueur_Grape"] = {
+        label = "glass_Liqueur_Grape",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Liqueur_Grape.png"
+    },
+    ["glass_Liqueur_honey"] = {
+        label = "glass_Liqueur_honey",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Liqueur_honey.png"
+    },
+    ["glass_Liqueur_hop"] = {
+        label = "glass_Liqueur_hop",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Liqueur_hop.png"
+    },
+    ["glass_Liqueur_lemon"] = {
+        label = "glass_Liqueur_lemon",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Liqueur_lemon.png"
+    },
+    ["glass_Liqueur_litchi"] = {
+        label = "glass_Liqueur_litchi",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Liqueur_litchi.png"
+    },
+    ["glass_Liqueur_mandarine"] = {
+        label = "glass_Liqueur_mandarine",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Liqueur_mandarine.png"
+    },
+    ["glass_Liqueur_mango"] = {
+        label = "glass_Liqueur_mango",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Liqueur_mango.png"
+    },
+    ["glass_Liqueur_melon"] = {
+        label = "glass_Liqueur_melon",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Liqueur_melon.png"
+    },
+    ["glass_Liqueur_Mint"] = {
+        label = "glass_Liqueur_Mint",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Liqueur_Mint.png"
+    },
+    ["glass_Liqueur_Mushroom"] = {
+        label = "glass_Liqueur_Mushroom",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Liqueur_Mushroom.png"
+    },
+    ["glass_Liqueur_oignon"] = {
+        label = "glass_Liqueur_oignon",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Liqueur_oignon.png"
+    },
+    ["glass_Liqueur_orange"] = {
+        label = "glass_Liqueur_orange",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Liqueur_orange.png"
+    },
+    ["glass_Liqueur_papaya"] = {
+        label = "glass_Liqueur_papaya",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Liqueur_papaya.png"
+    },
+    ["glass_Liqueur_paprika"] = {
+        label = "glass_Liqueur_paprika",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Liqueur_paprika.png"
+    },
+    ["glass_Liqueur_peanuts"] = {
+        label = "glass_Liqueur_peanuts",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Liqueur_peanuts.png"
+    },
+    ["glass_Liqueur_pepper"] = {
+        label = "glass_Liqueur_pepper",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Liqueur_pepper.png"
+    },
+    ["glass_Liqueur_pomegranate"] = {
+        label = "glass_Liqueur_pomegranate",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Liqueur_pomegranate.png"
+    },
+    ["glass_Liqueur_Potato"] = {
+        label = "glass_Liqueur_Potato",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Liqueur_Potato.png"
+    },
+    ["glass_Liqueur_rose"] = {
+        label = "glass_Liqueur_rose",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Liqueur_rose.png"
+    },
+    ["glass_Liqueur_seaweed"] = {
+        label = "glass_Liqueur_seaweed",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Liqueur_seaweed.png"
+    },
+    ["glass_Liqueur_strawberry"] = {
+        label = "glass_Liqueur_strawberry",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Liqueur_strawberry.png"
+    },
+    ["glass_Liqueur_suggar_cane"] = {
+        label = "glass_Liqueur_suggar_cane",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Liqueur_suggar_cane.png"
+    },
+    ["glass_Liqueur_tabaco"] = {
+        label = "glass_Liqueur_tabaco",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Liqueur_tabaco.png"
+    },
+    ["glass_Liqueur_tea"] = {
+        label = "glass_Liqueur_tea",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Liqueur_tea.png"
+    },
+    ["glass_Liqueur_tomato"] = {
+        label = "glass_Liqueur_tomato",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Liqueur_tomato.png"
+    },
+    ["Glass_pastis"] = {
+        label = "Glass_pastis",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Glass_pastis.png"
+    },
+    ["glass_pinkwine"] = {
+        label = "glass_pinkwine",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_pinkwine.png"
+    },
+    ["glass_redwine"] = {
+        label = "glass_redwine",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_redwine.png"
+    },
+    ["Glass_rhum"] = {
+        label = "Glass_rhum",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Glass_rhum.png"
+    },
+    ["Glass_sak_"] = {
+        label = "Glass_sak_",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Glass_saké.png"
+    },
+    ["glass_SchanyJager"] = {
+        label = "glass_SchanyJager",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_SchanyJager.png"
+    },
+    ["glass_Syrup_aloevera"] = {
+        label = "glass_Syrup_aloevera",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Syrup_aloevera.png"
+    },
+    ["glass_Syrup_apple"] = {
+        label = "glass_Syrup_apple",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Syrup_apple.png"
+    },
+    ["glass_Syrup_banana"] = {
+        label = "glass_Syrup_banana",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Syrup_banana.png"
+    },
+    ["glass_Syrup_cactus"] = {
+        label = "glass_Syrup_cactus",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Syrup_cactus.png"
+    },
+    ["glass_Syrup_chocolat"] = {
+        label = "glass_Syrup_chocolat",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Syrup_chocolat.png"
+    },
+    ["glass_Syrup_coconut"] = {
+        label = "glass_Syrup_coconut",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Syrup_coconut.png"
+    },
+    ["glass_Syrup_coffee"] = {
+        label = "glass_Syrup_coffee",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Syrup_coffee.png"
+    },
+    ["glass_Syrup_cola"] = {
+        label = "glass_Syrup_cola",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Syrup_cola.png"
+    },
+    ["glass_Syrup_cookie"] = {
+        label = "glass_Syrup_cookie",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Syrup_cookie.png"
+    },
+    ["glass_Syrup_corn"] = {
+        label = "glass_Syrup_corn",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Syrup_corn.png"
+    },
+    ["glass_Syrup_dragonfruit"] = {
+        label = "glass_Syrup_dragonfruit",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Syrup_dragonfruit.png"
+    },
+    ["glass_Syrup_fraise"] = {
+        label = "glass_Syrup_fraise",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Syrup_fraise.png"
+    },
+    ["glass_Syrup_ginger"] = {
+        label = "glass_Syrup_ginger",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Syrup_ginger.png"
+    },
+    ["glass_syrup_gingerbread"] = {
+        label = "glass_syrup_gingerbread",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_syrup_gingerbread.png"
+    },
+    ["glass_Syrup_honey"] = {
+        label = "glass_Syrup_honey",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Syrup_honey.png"
+    },
+    ["glass_Syrup_lemon"] = {
+        label = "glass_Syrup_lemon",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Syrup_lemon.png"
+    },
+    ["glass_Syrup_litchi"] = {
+        label = "glass_Syrup_litchi",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Syrup_litchi.png"
+    },
+    ["glass_Syrup_mandarine"] = {
+        label = "glass_Syrup_mandarine",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Syrup_mandarine.png"
+    },
+    ["glass_Syrup_mango"] = {
+        label = "glass_Syrup_mango",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Syrup_mango.png"
+    },
+    ["glass_Syrup_melon"] = {
+        label = "glass_Syrup_melon",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Syrup_melon.png"
+    },
+    ["glass_Syrup_mint"] = {
+        label = "glass_Syrup_mint",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Syrup_mint.png"
+    },
+    ["glass_Syrup_orange"] = {
+        label = "glass_Syrup_orange",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Syrup_orange.png"
+    },
+    ["glass_Syrup_papaya"] = {
+        label = "glass_Syrup_papaya",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Syrup_papaya.png"
+    },
+    ["glass_Syrup_pineapple"] = {
+        label = "glass_Syrup_pineapple",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Syrup_pineapple.png"
+    },
+    ["glass_Syrup_pomegranate"] = {
+        label = "glass_Syrup_pomegranate",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Syrup_pomegranate.png"
+    },
+    ["glass_Syrup_rose"] = {
+        label = "glass_Syrup_rose",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Syrup_rose.png"
+    },
+    ["glass_Syrup_suggar_cane"] = {
+        label = "glass_Syrup_suggar_cane",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_Syrup_suggar_cane.png"
+    },
+    ["Glass_TEQUILA"] = {
+        label = "Glass_TEQUILA",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Glass_TEQUILA.png"
+    },
+    ["Glass_vodka"] = {
+        label = "Glass_vodka",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Glass_vodka.png"
+    },
+    ["Glass_whiskey"] = {
+        label = "Glass_whiskey",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Glass_whiskey.png"
+    },
+    ["glass_whitewine"] = {
+        label = "glass_whitewine",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/glass_whitewine.png"
+    },
+    ["Liqueur_aloevera"] = {
+        label = "Liqueur_aloevera",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Liqueur_aloevera.png"
+    },
+    ["Liqueur_Apple"] = {
+        label = "Liqueur_Apple",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Liqueur_Apple.png"
+    },
+    ["Liqueur_banana"] = {
+        label = "Liqueur_banana",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Liqueur_banana.png"
+    },
+    ["Liqueur_cacao"] = {
+        label = "Liqueur_cacao",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Liqueur_cacao.png"
+    },
+    ["Liqueur_cactus"] = {
+        label = "Liqueur_cactus",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Liqueur_cactus.png"
+    },
+    ["Liqueur_Cannabis"] = {
+        label = "Liqueur_Cannabis",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Liqueur_Cannabis.png"
+    },
+    ["Liqueur_Carrot"] = {
+        label = "Liqueur_Carrot",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Liqueur_Carrot.png"
+    },
+    ["Liqueur_cocaine"] = {
+        label = "Liqueur_cocaine",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Liqueur_cocaine.png"
+    },
+    ["Liqueur_Coconut"] = {
+        label = "Liqueur_Coconut",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Liqueur_Coconut.png"
+    },
+    ["Liqueur_Coffee"] = {
+        label = "Liqueur_Coffee",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Liqueur_Coffee.png"
+    },
+    ["Liqueur_cola"] = {
+        label = "Liqueur_cola",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Liqueur_cola.png"
+    },
+    ["Liqueur_corn"] = {
+        label = "Liqueur_corn",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Liqueur_corn.png"
+    },
+    ["Liqueur_cucumble"] = {
+        label = "Liqueur_cucumble",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Liqueur_cucumble.png"
+    },
+    ["Liqueur_DragonFruit"] = {
+        label = "Liqueur_DragonFruit",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Liqueur_DragonFruit.png"
+    },
+    ["Liqueur_Flower_bad_Agapanthus"] = {
+        label = "Liqueur_Flower_bad_Agapanthus",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Liqueur_Flower_bad_Agapanthus.png"
+    },
+    ["Liqueur_Flower_bad_Angel_Trumpet"] = {
+        label = "Liqueur_Flower_bad_Angel_Trumpet",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Liqueur_Flower_bad_Angel_Trumpet.png"
+    },
+    ["Liqueur_Flower_bad_Calla_Lily"] = {
+        label = "Liqueur_Flower_bad_Calla_Lily",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Liqueur_Flower_bad_Calla_Lily.png"
+    },
+    ["Liqueur_Flower_bad_Castor_Bean"] = {
+        label = "Liqueur_Flower_bad_Castor_Bean",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Liqueur_Flower_bad_Castor_Bean.png"
+    },
+    ["Liqueur_Flower_bad_Daffodil"] = {
+        label = "Liqueur_Flower_bad_Daffodil",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Liqueur_Flower_bad_Daffodil.png"
+    },
+    ["Liqueur_Flower_bad_Delphinium"] = {
+        label = "Liqueur_Flower_bad_Delphinium",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Liqueur_Flower_bad_Delphinium.png"
+    },
+    ["Liqueur_Flower_bad_Foxglove"] = {
+        label = "Liqueur_Flower_bad_Foxglove",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Liqueur_Flower_bad_Foxglove.png"
+    },
+    ["Liqueur_Flower_bad_Heliotrope"] = {
+        label = "Liqueur_Flower_bad_Heliotrope",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Liqueur_Flower_bad_Heliotrope.png"
+    },
+    ["Liqueur_Flower_good_Achillea_millefolium"] = {
+        label = "Liqueur_Flower_good_Achillea_millefolium",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Liqueur_Flower_good_Achillea_millefolium.png"
+    },
+    ["Liqueur_Flower_good_Black_sage"] = {
+        label = "Liqueur_Flower_good_Black_sage",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Liqueur_Flower_good_Black_sage.png"
+    },
+    ["Liqueur_Flower_good_Broadleaf_plantain"] = {
+        label = "Liqueur_Flower_good_Broadleaf_plantain",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Liqueur_Flower_good_Broadleaf_plantain.png"
+    },
+    ["Liqueur_Flower_good_California_poppy"] = {
+        label = "Liqueur_Flower_good_California_poppy",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Liqueur_Flower_good_California_poppy.png"
+    },
+    ["Liqueur_Flower_good_Ephedra"] = {
+        label = "Liqueur_Flower_good_Ephedra",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Liqueur_Flower_good_Ephedra.png"
+    },
+    ["Liqueur_Flower_good_Horsetail"] = {
+        label = "Liqueur_Flower_good_Horsetail",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Liqueur_Flower_good_Horsetail.png"
+    },
+    ["Liqueur_Flower_good_Matilija_poppy"] = {
+        label = "Liqueur_Flower_good_Matilija_poppy",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Liqueur_Flower_good_Matilija_poppy.png"
+    },
+    ["Liqueur_Flower_good_Willow_Salix"] = {
+        label = "Liqueur_Flower_good_Willow_Salix",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Liqueur_Flower_good_Willow_Salix.png"
+    },
+    ["Liqueur_Flower_neutre_bleeding_hearts"] = {
+        label = "Liqueur_Flower_neutre_bleeding_hearts",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Liqueur_Flower_neutre_bleeding_hearts.png"
+    },
+    ["Liqueur_Flower_neutre_buttercup"] = {
+        label = "Liqueur_Flower_neutre_buttercup",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Liqueur_Flower_neutre_buttercup.png"
+    },
+    ["Liqueur_Flower_neutre_chinese_house"] = {
+        label = "Liqueur_Flower_neutre_chinese_house",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Liqueur_Flower_neutre_chinese_house.png"
+    },
+    ["Liqueur_Flower_neutre_colombine"] = {
+        label = "Liqueur_Flower_neutre_colombine",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Liqueur_Flower_neutre_colombine.png"
+    },
+    ["Liqueur_Flower_neutre_common_monkeyflower"] = {
+        label = "Liqueur_Flower_neutre_common_monkeyflower",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Liqueur_Flower_neutre_common_monkeyflower.png"
+    },
+    ["Liqueur_Flower_neutre_globe_gilia"] = {
+        label = "Liqueur_Flower_neutre_globe_gilia",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Liqueur_Flower_neutre_globe_gilia.png"
+    },
+    ["Liqueur_Flower_neutre_rose"] = {
+        label = "Liqueur_Flower_neutre_rose",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Liqueur_Flower_neutre_rose.png"
+    },
+    ["Liqueur_Flower_neutre_tidy_tips"] = {
+        label = "Liqueur_Flower_neutre_tidy_tips",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Liqueur_Flower_neutre_tidy_tips.png"
+    },
+    ["Liqueur_ginger"] = {
+        label = "Liqueur_ginger",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Liqueur_ginger.png"
+    },
+    ["Liqueur_Grape"] = {
+        label = "Liqueur_Grape",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Liqueur_Grape.png"
+    },
+    ["Liqueur_honeycomb"] = {
+        label = "Liqueur_honeycomb",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Liqueur_honeycomb.png"
+    },
+    ["Liqueur_Hop"] = {
+        label = "Liqueur_Hop",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Liqueur_Hop.png"
+    },
+    ["Liqueur_Lemon"] = {
+        label = "Liqueur_Lemon",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Liqueur_Lemon.png"
+    },
+    ["Liqueur_Litchi"] = {
+        label = "Liqueur_Litchi",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Liqueur_Litchi.png"
+    },
+    ["Liqueur_Mandarin"] = {
+        label = "Liqueur_Mandarin",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Liqueur_Mandarin.png"
+    },
+    ["Liqueur_Mango"] = {
+        label = "Liqueur_Mango",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Liqueur_Mango.png"
+    },
+    ["Liqueur_Melon"] = {
+        label = "Liqueur_Melon",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Liqueur_Melon.png"
+    },
+    ["Liqueur_Mint"] = {
+        label = "Liqueur_Mint",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Liqueur_Mint.png"
+    },
+    ["Liqueur_Mushroom"] = {
+        label = "Liqueur_Mushroom",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Liqueur_Mushroom.png"
+    },
+    ["Liqueur_Oignon"] = {
+        label = "Liqueur_Oignon",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Liqueur_Oignon.png"
+    },
+    ["Liqueur_Orange"] = {
+        label = "Liqueur_Orange",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Liqueur_Orange.png"
+    },
+    ["Liqueur_Papaya"] = {
+        label = "Liqueur_Papaya",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Liqueur_Papaya.png"
+    },
+    ["Liqueur_Paprika"] = {
+        label = "Liqueur_Paprika",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Liqueur_Paprika.png"
+    },
+    ["Liqueur_Peanuts"] = {
+        label = "Liqueur_Peanuts",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Liqueur_Peanuts.png"
+    },
+    ["Liqueur_Pepper"] = {
+        label = "Liqueur_Pepper",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Liqueur_Pepper.png"
+    },
+    ["Liqueur_Pomegranate"] = {
+        label = "Liqueur_Pomegranate",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Liqueur_Pomegranate.png"
+    },
+    ["Liqueur_Potato"] = {
+        label = "Liqueur_Potato",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Liqueur_Potato.png"
+    },
+    ["Liqueur_SeaWeed"] = {
+        label = "Liqueur_SeaWeed",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Liqueur_SeaWeed.png"
+    },
+    ["Liqueur_Strawberry"] = {
+        label = "Liqueur_Strawberry",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Liqueur_Strawberry.png"
+    },
+    ["Liqueur_Suggar_cane"] = {
+        label = "Liqueur_Suggar_cane",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Liqueur_Suggar_cane.png"
+    },
+    ["Liqueur_Tabaco"] = {
+        label = "Liqueur_Tabaco",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Liqueur_Tabaco.png"
+    },
+    ["Liqueur_tea"] = {
+        label = "Liqueur_tea",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Liqueur_tea.png"
+    },
+    ["Liqueur_Tomato"] = {
+        label = "Liqueur_Tomato",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Liqueur_Tomato.png"
+    },
+    ["Luxe_tequila"] = {
+        label = "Luxe_tequila",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Luxe_tequila.png"
+    },
+    ["moonshine"] = {
+        label = "moonshine",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/moonshine.png"
+    },
+    ["Old_Bourbon"] = {
+        label = "Old_Bourbon",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Old_Bourbon.png"
+    },
+    ["old_gin"] = {
+        label = "old_gin",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/old_gin.png"
+    },
+    ["old_gin_dry"] = {
+        label = "old_gin_dry",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/old_gin_dry.png"
+    },
+    ["old_rhum"] = {
+        label = "old_rhum",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/old_rhum.png"
+    },
+    ["old_whiskey_pureRye"] = {
+        label = "old_whiskey_pureRye",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/old_whiskey_pureRye.png"
+    },
+    ["Olive_oil"] = {
+        label = "Olive_oil",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Olive_oil.png"
+    },
+    ["pastis"] = {
+        label = "pastis",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/pastis.png"
+    },
+    ["Scotch_Macbeth"] = {
+        label = "Scotch_Macbeth",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Scotch_Macbeth.png"
+    },
+    ["shaker"] = {
+        label = "shaker",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/shaker.png"
+    },
+    ["Syrup_aloevera"] = {
+        label = "Syrup_aloevera",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Syrup_aloevera.png"
+    },
+    ["Syrup_apple"] = {
+        label = "Syrup_apple",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Syrup_apple.png"
+    },
+    ["Syrup_banana"] = {
+        label = "Syrup_banana",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Syrup_banana.png"
+    },
+    ["Syrup_cactus"] = {
+        label = "Syrup_cactus",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Syrup_cactus.png"
+    },
+    ["Syrup_chocolat"] = {
+        label = "Syrup_chocolat",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Syrup_chocolat.png"
+    },
+    ["Syrup_coconut"] = {
+        label = "Syrup_coconut",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Syrup_coconut.png"
+    },
+    ["Syrup_coffee"] = {
+        label = "Syrup_coffee",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Syrup_coffee.png"
+    },
+    ["Syrup_cola"] = {
+        label = "Syrup_cola",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Syrup_cola.png"
+    },
+    ["Syrup_cookie"] = {
+        label = "Syrup_cookie",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Syrup_cookie.png"
+    },
+    ["Syrup_corn"] = {
+        label = "Syrup_corn",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Syrup_corn.png"
+    },
+    ["Syrup_dragonfruit"] = {
+        label = "Syrup_dragonfruit",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Syrup_dragonfruit.png"
+    },
+    ["Syrup_ginger"] = {
+        label = "Syrup_ginger",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Syrup_ginger.png"
+    },
+    ["Syrup_gingerbread"] = {
+        label = "Syrup_gingerbread",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Syrup_gingerbread.png"
+    },
+    ["Syrup_honey"] = {
+        label = "Syrup_honey",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Syrup_honey.png"
+    },
+    ["Syrup_lemon"] = {
+        label = "Syrup_lemon",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Syrup_lemon.png"
+    },
+    ["Syrup_litchi"] = {
+        label = "Syrup_litchi",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Syrup_litchi.png"
+    },
+    ["Syrup_mandarin"] = {
+        label = "Syrup_mandarin",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Syrup_mandarin.png"
+    },
+    ["Syrup_mango"] = {
+        label = "Syrup_mango",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Syrup_mango.png"
+    },
+    ["Syrup_melon"] = {
+        label = "Syrup_melon",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Syrup_melon.png"
+    },
+    ["Syrup_mint"] = {
+        label = "Syrup_mint",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Syrup_mint.png"
+    },
+    ["Syrup_orange"] = {
+        label = "Syrup_orange",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Syrup_orange.png"
+    },
+    ["Syrup_papaya"] = {
+        label = "Syrup_papaya",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Syrup_papaya.png"
+    },
+    ["Syrup_pineapple"] = {
+        label = "Syrup_pineapple",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Syrup_pineapple.png"
+    },
+    ["Syrup_pomegranate"] = {
+        label = "Syrup_pomegranate",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Syrup_pomegranate.png"
+    },
+    ["Syrup_rose"] = {
+        label = "Syrup_rose",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Syrup_rose.png"
+    },
+    ["Syrup_Strawberry"] = {
+        label = "Syrup_Strawberry",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Syrup_Strawberry.png"
+    },
+    ["Syrup_suggar_cane"] = {
+        label = "Syrup_suggar_cane",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Syrup_suggar_cane.png"
+    },
+    ["tequila_tequilya"] = {
+        label = "tequila_tequilya",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/tequila_tequilya.png"
+    },
+    ["triple_sec"] = {
+        label = "triple_sec",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/triple_sec.png"
+    },
+    ["Vermouth"] = {
+        label = "Vermouth",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Vermouth.png"
+    },
+    ["Vermouth_dry"] = {
+        label = "Vermouth_dry",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Vermouth_dry.png"
     }
 }
