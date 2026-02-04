@@ -4719,5 +4719,113 @@ return {
     ["2_cl_maison_rouge"] = {
         label = "2_cl_maison_rouge",
         image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/2.clémaison_rouge.png"
+    },
+    ["1_exsorbeo_hud_2"] = {
+        label = "1_exsorbeo_hud_2",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Minigame/1.exsorbeo_hud_2.png"
+    },
+    ["exsorbeo_hud_screen"] = {
+        label = "exsorbeo_hud_screen",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Minigame/exsorbeo_hud_screen.png"
+    },
+    ["exsorbeo_portable"] = {
+        label = "exsorbeo_portable",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Minigame/exsorbeo_portable.png"
+    },
+    ["exsorbeo_portable_bleu"] = {
+        label = "exsorbeo_portable_bleu",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Minigame/exsorbeo_portable_bleu.png"
+    },
+    ["exsorbeo_portable_brown"] = {
+        label = "exsorbeo_portable_brown",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Minigame/exsorbeo_portable_brown.png"
+    },
+    ["exsorbeo_portable_rose"] = {
+        label = "exsorbeo_portable_rose",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Minigame/exsorbeo_portable_rose.png"
+    },
+    ["exsorbeo_portable_verte"] = {
+        label = "exsorbeo_portable_verte",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Minigame/exsorbeo_portable_verte.png"
+    },
+    ["exsorbeo_portable_violet"] = {
+        label = "exsorbeo_portable_violet",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Minigame/exsorbeo_portable_violet.png"
+    },
+    ["game_badlands"] = {
+        label = "game_badlands",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Minigame/game_badlands.png"
+    },
+    ["game_camhedz"] = {
+        label = "game_camhedz",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Minigame/game_camhedz.png"
+    },
+    ["game_cub3d"] = {
+        label = "game_cub3d",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Minigame/game_cub3d.png"
+    },
+    ["game_dont_cross_line"] = {
+        label = "game_dont_cross_line",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Minigame/game_dont_cross_line.png"
+    },
+    ["game_invade_n_persuade"] = {
+        label = "game_invade_n_persuade",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Minigame/game_invade_n_persuade.png"
+    },
+    ["game_Race_1"] = {
+        label = "game_Race_1",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Minigame/game_Race_1.png"
+    },
+    ["game_Race_2"] = {
+        label = "game_Race_2",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Minigame/game_Race_2.png"
+    },
+    ["game_Race_3"] = {
+        label = "game_Race_3",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Minigame/game_Race_3.png"
+    },
+    ["game_space_monkey"] = {
+        label = "game_space_monkey",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Minigame/game_space_monkey.png"
+    },
+    ["game_street_crimes"] = {
+        label = "game_street_crimes",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Minigame/game_street_crimes.png"
+    },
+    ["game_vide"] = {
+        label = "game_vide",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Minigame/game_vide.png"
+    },
+    ["game_wizard_ruin"] = {
+        label = "game_wizard_ruin",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Minigame/game_wizard_ruin.png"
+    },
+    ["gameCrack_Unlock_Bravado"] = {
+        label = "gameCrack_Unlock_Bravado",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Minigame/gameCrack_Unlock_Bravado.png"
+    },
+    ["gameCrack_Unlock_vapid"] = {
+        label = "gameCrack_Unlock_vapid",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Minigame/gameCrack_Unlock_vapid.png"
+    },
+    ["gameCrack_vide"] = {
+        label = "gameCrack_vide",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Minigame/gameCrack_vide.png"
+    },
+    ["gameplay"] = {
+        label = "gameplay",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Minigame/gameplay.png"
+    },
+    ["gameVR_gunshoot"] = {
+        label = "gameVR_gunshoot",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Minigame/gameVR_gunshoot.png"
+    },
+    ["gameVR_race"] = {
+        label = "gameVR_race",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Minigame/gameVR_race.png"
+    },
+    ["gameVR_vide"] = {
+        label = "gameVR_vide",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Minigame/gameVR_vide.png"
     }
 }
