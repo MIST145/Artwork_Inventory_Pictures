@@ -6083,5 +6083,157 @@ return {
     ["Vermouth_dry"] = {
         label = "Vermouth_dry",
         image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_alcool/Vermouth_dry.png"
+    },
+    ["0_"] = {
+        label = "0_",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_animation/0..PNG"
+    },
+    ["0_guitarre"] = {
+        label = "0_guitarre",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_animation/0.guitarre.PNG"
+    },
+    ["0_guitarre2"] = {
+        label = "0_guitarre2",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_animation/0.guitarre2.PNG"
+    },
+    ["0_guitarre3"] = {
+        label = "0_guitarre3",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_animation/0.guitarre3.PNG"
+    },
+    ["0_guitarre4"] = {
+        label = "0_guitarre4",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_animation/0.guitarre4.PNG"
+    },
+    ["0_guitarre5"] = {
+        label = "0_guitarre5",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_animation/0.guitarre5.PNG"
+    },
+    ["0_guitarre6"] = {
+        label = "0_guitarre6",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_animation/0.guitarre6.PNG"
+    },
+    ["0_medicbag"] = {
+        label = "0_medicbag",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_animation/0.medicbag.PNG"
+    },
+    ["0_megaphone"] = {
+        label = "0_megaphone",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_animation/0.megaphone.PNG"
+    },
+    ["0_micro"] = {
+        label = "0_micro",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_animation/0.micro.PNG"
+    },
+    ["0_newsmicro"] = {
+        label = "0_newsmicro",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_animation/0.newsmicro.PNG"
+    },
+    ["BANG"] = {
+        label = "BANG",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_animation/BANG.PNG"
+    },
+    ["BASKET"] = {
+        label = "BASKET",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_animation/BASKET.PNG"
+    },
+    ["bear"] = {
+        label = "bear",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_animation/bear.PNG"
+    },
+    ["bin"] = {
+        label = "bin",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_animation/bin.PNG"
+    },
+    ["bin2"] = {
+        label = "bin2",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_animation/bin2.PNG"
+    },
+    ["blocnote"] = {
+        label = "blocnote",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_animation/blocnote.png"
+    },
+    ["BONGO"] = {
+        label = "BONGO",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_animation/BONGO.PNG"
+    },
+    ["BOUQUET"] = {
+        label = "BOUQUET",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_animation/BOUQUET.PNG"
+    },
+    ["BRIEFCASE"] = {
+        label = "BRIEFCASE",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_animation/BRIEFCASE.PNG"
+    },
+    ["briefcase2"] = {
+        label = "briefcase2",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_animation/briefcase2.PNG"
+    },
+    ["BROOM"] = {
+        label = "BROOM",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_animation/BROOM.PNG"
+    },
+    ["cam"] = {
+        label = "cam",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_animation/cam.PNG"
+    },
+    ["camera"] = {
+        label = "camera",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_animation/camera.PNG"
+    },
+    ["clipboard"] = {
+        label = "clipboard",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_animation/clipboard.PNG"
+    },
+    ["cone"] = {
+        label = "cone",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_animation/cone.PNG"
+    },
+    ["FLOATIE"] = {
+        label = "FLOATIE",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_animation/FLOATIE.PNG"
+    },
+    ["lawnchair"] = {
+        label = "lawnchair",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_animation/lawnchair.PNG"
+    },
+    ["leafblower"] = {
+        label = "leafblower",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_animation/leafblower.PNG"
+    },
+    ["policesheild"] = {
+        label = "policesheild",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_animation/policesheild.PNG"
+    },
+    ["sac"] = {
+        label = "sac",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_animation/sac.PNG"
+    },
+    ["saxo"] = {
+        label = "saxo",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_animation/saxo.PNG"
+    },
+    ["shovel"] = {
+        label = "shovel",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_animation/shovel.png"
+    },
+    ["surf"] = {
+        label = "surf",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_animation/surf.PNG"
+    },
+    ["tenis"] = {
+        label = "tenis",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_animation/tenis.PNG"
+    },
+    ["torche"] = {
+        label = "torche",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_animation/torche.PNG"
+    },
+    ["valise"] = {
+        label = "valise",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_animation/valise.PNG"
+    },
+    ["weight"] = {
+        label = "weight",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_animation/weight.PNG"
     }
 }
