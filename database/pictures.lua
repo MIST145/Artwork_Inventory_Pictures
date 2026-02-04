@@ -3807,5 +3807,913 @@ return {
     ["4_givre"] = {
         label = "4_givre",
         image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Food_maker/4_givre.png"
+    },
+    ["0_usb"] = {
+        label = "0_usb",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/0.usb.png"
+    },
+    ["0_usb_blanc"] = {
+        label = "0_usb_blanc",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/0.usb_blanc.png"
+    },
+    ["0_usb_bleu"] = {
+        label = "0_usb_bleu",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/0.usb_bleu.png"
+    },
+    ["0_usb_noir"] = {
+        label = "0_usb_noir",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/0.usb_noir.png"
+    },
+    ["0_usb_rouge"] = {
+        label = "0_usb_rouge",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/0.usb_rouge.png"
+    },
+    ["0_usb_template"] = {
+        label = "0_usb_template",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/0.usb_template.png"
+    },
+    ["0_usb_vert"] = {
+        label = "0_usb_vert",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/0.usb_vert.png"
+    },
+    ["0_usb_vide"] = {
+        label = "0_usb_vide",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/0.usb_vide.png"
+    },
+    ["1_cl_voiture"] = {
+        label = "1_cl_voiture",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/1.clévoiture.png"
+    },
+    ["1_cl_voiture__bleu"] = {
+        label = "1_cl_voiture__bleu",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/1.clévoiture__bleu.png"
+    },
+    ["1_cl_voiture_blanc"] = {
+        label = "1_cl_voiture_blanc",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/1.clévoiture_blanc.png"
+    },
+    ["1_cl_voiture_noir"] = {
+        label = "1_cl_voiture_noir",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/1.clévoiture_noir.png"
+    },
+    ["1_cl_voiture_rouge"] = {
+        label = "1_cl_voiture_rouge",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/1.clévoiture_rouge.png"
+    },
+    ["1_cl_voiture_template"] = {
+        label = "1_cl_voiture_template",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/1.clévoiture_template.png"
+    },
+    ["1_cl_voiture_vert"] = {
+        label = "1_cl_voiture_vert",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/1.clévoiture_vert.png"
+    },
+    ["1_cl_voiture_vide"] = {
+        label = "1_cl_voiture_vide",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/1.clévoiture_vide.png"
+    },
+    ["2_cl_maison"] = {
+        label = "2_cl_maison",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/2.clémaison.png"
+    },
+    ["2_cl_maison_blanc"] = {
+        label = "2_cl_maison_blanc",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/2.clémaison_blanc.png"
+    },
+    ["2_cl_maison_bleu"] = {
+        label = "2_cl_maison_bleu",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/2.clémaison_bleu.png"
+    },
+    ["2_cl_maison_noir"] = {
+        label = "2_cl_maison_noir",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/2.clémaison_noir.png"
+    },
+    ["2_cl_maison_template"] = {
+        label = "2_cl_maison_template",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/2.clémaison_template.png"
+    },
+    ["2_cl_maison_template2"] = {
+        label = "2_cl_maison_template2",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/2.clémaison_template2.png"
+    },
+    ["2_cl_maison_vert"] = {
+        label = "2_cl_maison_vert",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/2.clémaison_vert.png"
+    },
+    ["2_cl_maison_vide"] = {
+        label = "2_cl_maison_vide",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/2.clémaison_vide.png"
+    },
+    ["3_OldKey"] = {
+        label = "3_OldKey",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/3.OldKey.png"
+    },
+    ["3_OldKey_blanc"] = {
+        label = "3_OldKey_blanc",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/3.OldKey_blanc.png"
+    },
+    ["3_OldKey_bleu"] = {
+        label = "3_OldKey_bleu",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/3.OldKey_bleu.png"
+    },
+    ["3_OldKey_noir"] = {
+        label = "3_OldKey_noir",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/3.OldKey_noir.png"
+    },
+    ["3_OldKey_rouge"] = {
+        label = "3_OldKey_rouge",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/3.OldKey_rouge.png"
+    },
+    ["3_OldKey_template"] = {
+        label = "3_OldKey_template",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/3.OldKey_template.png"
+    },
+    ["3_OldKey_vert"] = {
+        label = "3_OldKey_vert",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/3.OldKey_vert.png"
+    },
+    ["3_OldKey_vide"] = {
+        label = "3_OldKey_vide",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/3.OldKey_vide.png"
+    },
+    ["4_keycard_blanc"] = {
+        label = "4_keycard_blanc",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/4.keycard_blanc.png"
+    },
+    ["4_keycard_bleu"] = {
+        label = "4_keycard_bleu",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/4.keycard_bleu.png"
+    },
+    ["4_keycard_noir"] = {
+        label = "4_keycard_noir",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/4.keycard_noir.png"
+    },
+    ["4_keycard_rouge"] = {
+        label = "4_keycard_rouge",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/4.keycard_rouge.png"
+    },
+    ["4_keycard_template"] = {
+        label = "4_keycard_template",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/4.keycard_template.png"
+    },
+    ["4_keycard_vert"] = {
+        label = "4_keycard_vert",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/4.keycard_vert.png"
+    },
+    ["4_keycard_vide"] = {
+        label = "4_keycard_vide",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/4.keycard_vide.png"
+    },
+    ["5_brand_melasuda"] = {
+        label = "5_brand_melasuda",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.brand_melasuda.png"
+    },
+    ["5_car_albaniy"] = {
+        label = "5_car_albaniy",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.car_albaniy.png"
+    },
+    ["5_car_American_motors"] = {
+        label = "5_car_American_motors",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.car_American_motors.png"
+    },
+    ["5_car_annis"] = {
+        label = "5_car_annis",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.car_annis.png"
+    },
+    ["5_car_benefactor"] = {
+        label = "5_car_benefactor",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.car_benefactor.png"
+    },
+    ["5_car_bolloka"] = {
+        label = "5_car_bolloka",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.car_bolloka.png"
+    },
+    ["5_car_bravado"] = {
+        label = "5_car_bravado",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.car_bravado.png"
+    },
+    ["5_car_brute"] = {
+        label = "5_car_brute",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.car_brute.png"
+    },
+    ["5_car_Buckingham"] = {
+        label = "5_car_Buckingham",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.car_Buckingham.png"
+    },
+    ["5_car_Burgerfahrzeug"] = {
+        label = "5_car_Burgerfahrzeug",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.car_Burgerfahrzeug.png"
+    },
+    ["5_car_canis"] = {
+        label = "5_car_canis",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.car_canis.png"
+    },
+    ["5_car_cheval"] = {
+        label = "5_car_cheval",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.car_cheval.png"
+    },
+    ["5_car_classique"] = {
+        label = "5_car_classique",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.car_classique.png"
+    },
+    ["5_car_coil"] = {
+        label = "5_car_coil",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.car_coil.png"
+    },
+    ["5_car_Declasse"] = {
+        label = "5_car_Declasse",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.car_Declasse.png"
+    },
+    ["5_car_grotti"] = {
+        label = "5_car_grotti",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.car_grotti.png"
+    },
+    ["5_car_karin"] = {
+        label = "5_car_karin",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.car_karin.png"
+    },
+    ["5_car_obey"] = {
+        label = "5_car_obey",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.car_obey.png"
+    },
+    ["5_car_ocelot"] = {
+        label = "5_car_ocelot",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.car_ocelot.png"
+    },
+    ["5_car_pegassi"] = {
+        label = "5_car_pegassi",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.car_pegassi.png"
+    },
+    ["5_car_pfister"] = {
+        label = "5_car_pfister",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.car_pfister.png"
+    },
+    ["5_flag_argentina"] = {
+        label = "5_flag_argentina",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.flag_argentina.png"
+    },
+    ["5_flag_autralia"] = {
+        label = "5_flag_autralia",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.flag_autralia.png"
+    },
+    ["5_flag_brazil"] = {
+        label = "5_flag_brazil",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.flag_brazil.png"
+    },
+    ["5_flag_canada"] = {
+        label = "5_flag_canada",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.flag_canada.png"
+    },
+    ["5_flag_cayoperico"] = {
+        label = "5_flag_cayoperico",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.flag_cayoperico.png"
+    },
+    ["5_flag_china"] = {
+        label = "5_flag_china",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.flag_china.png"
+    },
+    ["5_flag_europe"] = {
+        label = "5_flag_europe",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.flag_europe.png"
+    },
+    ["5_flag_france"] = {
+        label = "5_flag_france",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.flag_france.png"
+    },
+    ["5_flag_garmany"] = {
+        label = "5_flag_garmany",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.flag_garmany.png"
+    },
+    ["5_flag_guarma"] = {
+        label = "5_flag_guarma",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.flag_guarma.png"
+    },
+    ["5_flag_india"] = {
+        label = "5_flag_india",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.flag_india.png"
+    },
+    ["5_flag_indonesia"] = {
+        label = "5_flag_indonesia",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.flag_indonesia.png"
+    },
+    ["5_flag_italy"] = {
+        label = "5_flag_italy",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.flag_italy.png"
+    },
+    ["5_flag_japan"] = {
+        label = "5_flag_japan",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.flag_japan.png"
+    },
+    ["5_flag_mexico"] = {
+        label = "5_flag_mexico",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.flag_mexico.png"
+    },
+    ["5_flag_roxwood"] = {
+        label = "5_flag_roxwood",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.flag_roxwood.png"
+    },
+    ["5_flag_russia"] = {
+        label = "5_flag_russia",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.flag_russia.png"
+    },
+    ["5_flag_saudiaArabia"] = {
+        label = "5_flag_saudiaArabia",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.flag_saudiaArabia.png"
+    },
+    ["5_flag_southAfrica"] = {
+        label = "5_flag_southAfrica",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.flag_southAfrica.png"
+    },
+    ["5_flag_southkorea"] = {
+        label = "5_flag_southkorea",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.flag_southkorea.png"
+    },
+    ["5_flag_turkey"] = {
+        label = "5_flag_turkey",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.flag_turkey.png"
+    },
+    ["5_flag_UK"] = {
+        label = "5_flag_UK",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.flag_UK.png"
+    },
+    ["5_flag_ukraine"] = {
+        label = "5_flag_ukraine",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.flag_ukraine.png"
+    },
+    ["5_flag_usa"] = {
+        label = "5_flag_usa",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.flag_usa.png"
+    },
+    ["5_gang_balas"] = {
+        label = "5_gang_balas",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.gang_balas.png"
+    },
+    ["5_gang_families"] = {
+        label = "5_gang_families",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.gang_families.png"
+    },
+    ["5_gang_lost"] = {
+        label = "5_gang_lost",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.gang_lost.png"
+    },
+    ["5_gang_vagos"] = {
+        label = "5_gang_vagos",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.gang_vagos.png"
+    },
+    ["5_item_axe"] = {
+        label = "5_item_axe",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.item_axe.png"
+    },
+    ["5_item_cig"] = {
+        label = "5_item_cig",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.item_cig.png"
+    },
+    ["5_item_drug"] = {
+        label = "5_item_drug",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.item_drug.png"
+    },
+    ["5_item_food"] = {
+        label = "5_item_food",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.item_food.png"
+    },
+    ["5_item_fuel"] = {
+        label = "5_item_fuel",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.item_fuel.png"
+    },
+    ["5_item_gun"] = {
+        label = "5_item_gun",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.item_gun.png"
+    },
+    ["5_item_rock"] = {
+        label = "5_item_rock",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.item_rock.png"
+    },
+    ["5_item_soin"] = {
+        label = "5_item_soin",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.item_soin.png"
+    },
+    ["5_item_water"] = {
+        label = "5_item_water",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.item_water.png"
+    },
+    ["5_job_247"] = {
+        label = "5_job_247",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.job_247.png"
+    },
+    ["5_job_amunation"] = {
+        label = "5_job_amunation",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.job_amunation.png"
+    },
+    ["5_job_bayinn"] = {
+        label = "5_job_bayinn",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.job_bayinn.png"
+    },
+    ["5_job_bennys"] = {
+        label = "5_job_bennys",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.job_bennys.png"
+    },
+    ["5_job_binco"] = {
+        label = "5_job_binco",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.job_binco.png"
+    },
+    ["5_job_burgershot"] = {
+        label = "5_job_burgershot",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.job_burgershot.png"
+    },
+    ["5_job_cluckingbell"] = {
+        label = "5_job_cluckingbell",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.job_cluckingbell.png"
+    },
+    ["5_job_COPS"] = {
+        label = "5_job_COPS",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.job_COPS.png"
+    },
+    ["5_job_destiny8"] = {
+        label = "5_job_destiny8",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.job_destiny8.png"
+    },
+    ["5_job_ecola"] = {
+        label = "5_job_ecola",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.job_ecola.png"
+    },
+    ["5_job_higjrollerz"] = {
+        label = "5_job_higjrollerz",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.job_higjrollerz.png"
+    },
+    ["5_job_LSCUSTOM"] = {
+        label = "5_job_LSCUSTOM",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.job_LSCUSTOM.png"
+    },
+    ["5_job_LTD"] = {
+        label = "5_job_LTD",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.job_LTD.png"
+    },
+    ["5_job_maze"] = {
+        label = "5_job_maze",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.job_maze.png"
+    },
+    ["5_job_pibwasser"] = {
+        label = "5_job_pibwasser",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.job_pibwasser.png"
+    },
+    ["5_job_poseidon"] = {
+        label = "5_job_poseidon",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.job_poseidon.png"
+    },
+    ["5_job_Rae"] = {
+        label = "5_job_Rae",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.job_Rae.png"
+    },
+    ["5_job_roxwoodcoastPatrol"] = {
+        label = "5_job_roxwoodcoastPatrol",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.job_roxwoodcoastPatrol.png"
+    },
+    ["5_job_Roxwoodfire"] = {
+        label = "5_job_Roxwoodfire",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.job_Roxwoodfire.png"
+    },
+    ["5_job_RoxwoodLifeguard"] = {
+        label = "5_job_RoxwoodLifeguard",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.job_RoxwoodLifeguard.png"
+    },
+    ["5_job_Roxwoodmedic"] = {
+        label = "5_job_Roxwoodmedic",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.job_Roxwoodmedic.png"
+    },
+    ["5_job_RoxwoodRanger"] = {
+        label = "5_job_RoxwoodRanger",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.job_RoxwoodRanger.png"
+    },
+    ["5_job_SHERIFF"] = {
+        label = "5_job_SHERIFF",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.job_SHERIFF.png"
+    },
+    ["5_job_solSister"] = {
+        label = "5_job_solSister",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.job_solSister.png"
+    },
+    ["5_job_starpeakhotel"] = {
+        label = "5_job_starpeakhotel",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.job_starpeakhotel.png"
+    },
+    ["5_job_tequilala"] = {
+        label = "5_job_tequilala",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.job_tequilala.png"
+    },
+    ["5_job_Thrillbilly"] = {
+        label = "5_job_Thrillbilly",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.job_Thrillbilly.png"
+    },
+    ["5_job_unicorn"] = {
+        label = "5_job_unicorn",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.job_unicorn.png"
+    },
+    ["5_job_yellowjack"] = {
+        label = "5_job_yellowjack",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.job_yellowjack.png"
+    },
+    ["5_lieu_cayoperico"] = {
+        label = "5_lieu_cayoperico",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.lieu_cayoperico.png"
+    },
+    ["5_lieu_delpero"] = {
+        label = "5_lieu_delpero",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.lieu_delpero.png"
+    },
+    ["5_lieu_forest"] = {
+        label = "5_lieu_forest",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.lieu_forest.png"
+    },
+    ["5_lieu_grapeseed"] = {
+        label = "5_lieu_grapeseed",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.lieu_grapeseed.png"
+    },
+    ["5_lieu_lasventuras"] = {
+        label = "5_lieu_lasventuras",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.lieu_lasventuras.png"
+    },
+    ["5_lieu_leonida"] = {
+        label = "5_lieu_leonida",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.lieu_leonida.png"
+    },
+    ["5_lieu_libertycity"] = {
+        label = "5_lieu_libertycity",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.lieu_libertycity.png"
+    },
+    ["5_lieu_LittleSeoul"] = {
+        label = "5_lieu_LittleSeoul",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.lieu_LittleSeoul.png"
+    },
+    ["5_lieu_lossantos"] = {
+        label = "5_lieu_lossantos",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.lieu_lossantos.png"
+    },
+    ["5_lieu_marinaBeach"] = {
+        label = "5_lieu_marinaBeach",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.lieu_marinaBeach.png"
+    },
+    ["5_lieu_montchilliad"] = {
+        label = "5_lieu_montchilliad",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.lieu_montchilliad.png"
+    },
+    ["5_lieu_paletobay"] = {
+        label = "5_lieu_paletobay",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.lieu_paletobay.png"
+    },
+    ["5_lieu_route68"] = {
+        label = "5_lieu_route68",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.lieu_route68.png"
+    },
+    ["5_lieu_roxwood"] = {
+        label = "5_lieu_roxwood",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.lieu_roxwood.png"
+    },
+    ["5_Lieu_roxwood2"] = {
+        label = "5_Lieu_roxwood2",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.Lieu_roxwood2.png"
+    },
+    ["5_lieu_sandyshores"] = {
+        label = "5_lieu_sandyshores",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.lieu_sandyshores.png"
+    },
+    ["5_lieu_tongvahills"] = {
+        label = "5_lieu_tongvahills",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.lieu_tongvahills.png"
+    },
+    ["5_lieu_vespucci"] = {
+        label = "5_lieu_vespucci",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.lieu_vespucci.png"
+    },
+    ["5_lieu_vicecity"] = {
+        label = "5_lieu_vicecity",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.lieu_vicecity.png"
+    },
+    ["5_lieu_vinewood"] = {
+        label = "5_lieu_vinewood",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.lieu_vinewood.png"
+    },
+    ["5_sport_bandits"] = {
+        label = "5_sport_bandits",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.sport_bandits.png"
+    },
+    ["5_sport_BELIVER"] = {
+        label = "5_sport_BELIVER",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.sport_BELIVER.png"
+    },
+    ["5_sport_boars"] = {
+        label = "5_sport_boars",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.sport_boars.png"
+    },
+    ["5_sport_corkers"] = {
+        label = "5_sport_corkers",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.sport_corkers.png"
+    },
+    ["5_sport_feud"] = {
+        label = "5_sport_feud",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.sport_feud.png"
+    },
+    ["5_sport_manbas"] = {
+        label = "5_sport_manbas",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.sport_manbas.png"
+    },
+    ["5_sport_panic"] = {
+        label = "5_sport_panic",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.sport_panic.png"
+    },
+    ["5_sport_PENETRATOR"] = {
+        label = "5_sport_PENETRATOR",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.sport_PENETRATOR.png"
+    },
+    ["5_sport_roaster"] = {
+        label = "5_sport_roaster",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.sport_roaster.png"
+    },
+    ["5_sport_shrimps"] = {
+        label = "5_sport_shrimps",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.sport_shrimps.png"
+    },
+    ["5_sport_Swingers"] = {
+        label = "5_sport_Swingers",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/5.sport_Swingers.png"
+    },
+    ["6_blip_bar_b"] = {
+        label = "6_blip_bar_b",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_bar_b.png"
+    },
+    ["6_blip_bar_custom"] = {
+        label = "6_blip_bar_custom",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_bar_custom.png"
+    },
+    ["6_blip_bar_g"] = {
+        label = "6_blip_bar_g",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_bar_g.png"
+    },
+    ["6_blip_bar_n"] = {
+        label = "6_blip_bar_n",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_bar_n.png"
+    },
+    ["6_blip_bar_r"] = {
+        label = "6_blip_bar_r",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_bar_r.png"
+    },
+    ["6_blip_bike_b"] = {
+        label = "6_blip_bike_b",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_bike_b.png"
+    },
+    ["6_blip_bike_custom"] = {
+        label = "6_blip_bike_custom",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_bike_custom.png"
+    },
+    ["6_blip_bike_g"] = {
+        label = "6_blip_bike_g",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_bike_g.png"
+    },
+    ["6_blip_bike_n"] = {
+        label = "6_blip_bike_n",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_bike_n.png"
+    },
+    ["6_blip_bike_r"] = {
+        label = "6_blip_bike_r",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_bike_r.png"
+    },
+    ["6_blip_boat_b"] = {
+        label = "6_blip_boat_b",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_boat_b.png"
+    },
+    ["6_blip_boat_custom"] = {
+        label = "6_blip_boat_custom",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_boat_custom.png"
+    },
+    ["6_blip_boat_g"] = {
+        label = "6_blip_boat_g",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_boat_g.png"
+    },
+    ["6_blip_boat_n"] = {
+        label = "6_blip_boat_n",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_boat_n.png"
+    },
+    ["6_blip_boat_r"] = {
+        label = "6_blip_boat_r",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_boat_r.png"
+    },
+    ["6_blip_caisse_b"] = {
+        label = "6_blip_caisse_b",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_caisse_b.png"
+    },
+    ["6_blip_caisse_custom"] = {
+        label = "6_blip_caisse_custom",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_caisse_custom.png"
+    },
+    ["6_blip_caisse_g"] = {
+        label = "6_blip_caisse_g",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_caisse_g.png"
+    },
+    ["6_blip_caisse_n"] = {
+        label = "6_blip_caisse_n",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_caisse_n.png"
+    },
+    ["6_blip_caisse_r"] = {
+        label = "6_blip_caisse_r",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_caisse_r.png"
+    },
+    ["6_blip_car_b"] = {
+        label = "6_blip_car_b",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_car_b.png"
+    },
+    ["6_blip_car_custom"] = {
+        label = "6_blip_car_custom",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_car_custom.png"
+    },
+    ["6_blip_car_g"] = {
+        label = "6_blip_car_g",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_car_g.png"
+    },
+    ["6_blip_car_n"] = {
+        label = "6_blip_car_n",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_car_n.png"
+    },
+    ["6_blip_car_r"] = {
+        label = "6_blip_car_r",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_car_r.png"
+    },
+    ["6_blip_garage_b"] = {
+        label = "6_blip_garage_b",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_garage_b.png"
+    },
+    ["6_blip_garage_custom"] = {
+        label = "6_blip_garage_custom",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_garage_custom.png"
+    },
+    ["6_blip_garage_g"] = {
+        label = "6_blip_garage_g",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_garage_g.png"
+    },
+    ["6_blip_garage_n"] = {
+        label = "6_blip_garage_n",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_garage_n.png"
+    },
+    ["6_blip_garage_r"] = {
+        label = "6_blip_garage_r",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_garage_r.png"
+    },
+    ["6_blip_hangar_b"] = {
+        label = "6_blip_hangar_b",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_hangar_b.png"
+    },
+    ["6_blip_hangar_custom"] = {
+        label = "6_blip_hangar_custom",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_hangar_custom.png"
+    },
+    ["6_blip_hangar_g"] = {
+        label = "6_blip_hangar_g",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_hangar_g.png"
+    },
+    ["6_blip_hangar_n"] = {
+        label = "6_blip_hangar_n",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_hangar_n.png"
+    },
+    ["6_blip_hangar_r"] = {
+        label = "6_blip_hangar_r",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_hangar_r.png"
+    },
+    ["6_blip_helico_b"] = {
+        label = "6_blip_helico_b",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_helico_b.png"
+    },
+    ["6_blip_helico_custom"] = {
+        label = "6_blip_helico_custom",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_helico_custom.png"
+    },
+    ["6_blip_helico_g"] = {
+        label = "6_blip_helico_g",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_helico_g.png"
+    },
+    ["6_blip_helico_n"] = {
+        label = "6_blip_helico_n",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_helico_n.png"
+    },
+    ["6_blip_helico_r"] = {
+        label = "6_blip_helico_r",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_helico_r.png"
+    },
+    ["6_blip_house_b"] = {
+        label = "6_blip_house_b",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_house_b.png"
+    },
+    ["6_blip_house_custom"] = {
+        label = "6_blip_house_custom",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_house_custom.png"
+    },
+    ["6_blip_house_g"] = {
+        label = "6_blip_house_g",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_house_g.png"
+    },
+    ["6_blip_house_n"] = {
+        label = "6_blip_house_n",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_house_n.png"
+    },
+    ["6_blip_house_r"] = {
+        label = "6_blip_house_r",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_house_r.png"
+    },
+    ["6_blip_plane_b"] = {
+        label = "6_blip_plane_b",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_plane_b.png"
+    },
+    ["6_blip_plane_custom"] = {
+        label = "6_blip_plane_custom",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_plane_custom.png"
+    },
+    ["6_blip_plane_g"] = {
+        label = "6_blip_plane_g",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_plane_g.png"
+    },
+    ["6_blip_plane_n"] = {
+        label = "6_blip_plane_n",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_plane_n.png"
+    },
+    ["6_blip_plane_r"] = {
+        label = "6_blip_plane_r",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_plane_r.png"
+    },
+    ["6_blip_repare_b"] = {
+        label = "6_blip_repare_b",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_repare_b.png"
+    },
+    ["6_blip_repare_custom"] = {
+        label = "6_blip_repare_custom",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_repare_custom.png"
+    },
+    ["6_blip_repare_g"] = {
+        label = "6_blip_repare_g",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_repare_g.png"
+    },
+    ["6_blip_repare_n"] = {
+        label = "6_blip_repare_n",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_repare_n.png"
+    },
+    ["6_blip_repare_r"] = {
+        label = "6_blip_repare_r",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_repare_r.png"
+    },
+    ["6_blip_shirt_b"] = {
+        label = "6_blip_shirt_b",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_shirt_b.png"
+    },
+    ["6_blip_shirt_custom"] = {
+        label = "6_blip_shirt_custom",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_shirt_custom.png"
+    },
+    ["6_blip_shirt_g"] = {
+        label = "6_blip_shirt_g",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_shirt_g.png"
+    },
+    ["6_blip_shirt_n"] = {
+        label = "6_blip_shirt_n",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_shirt_n.png"
+    },
+    ["6_blip_shirt_r"] = {
+        label = "6_blip_shirt_r",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_shirt_r.png"
+    },
+    ["6_blip_shop_b"] = {
+        label = "6_blip_shop_b",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_shop_b.png"
+    },
+    ["6_blip_shop_custom"] = {
+        label = "6_blip_shop_custom",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_shop_custom.png"
+    },
+    ["6_blip_shop_g"] = {
+        label = "6_blip_shop_g",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_shop_g.png"
+    },
+    ["6_blip_shop_n"] = {
+        label = "6_blip_shop_n",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_shop_n.png"
+    },
+    ["6_blip_shop_r"] = {
+        label = "6_blip_shop_r",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_shop_r.png"
+    },
+    ["6_blip_tatoo_b"] = {
+        label = "6_blip_tatoo_b",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_tatoo_b.png"
+    },
+    ["6_blip_tatoo_custom"] = {
+        label = "6_blip_tatoo_custom",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_tatoo_custom.png"
+    },
+    ["6_blip_tatoo_g"] = {
+        label = "6_blip_tatoo_g",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_tatoo_g.png"
+    },
+    ["6_blip_tatoo_n"] = {
+        label = "6_blip_tatoo_n",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_tatoo_n.png"
+    },
+    ["6_blip_tatoo_r"] = {
+        label = "6_blip_tatoo_r",
+        image = "https://raw.githubusercontent.com/MIST145/Artwork_Inventory_Pictures/main/0-DEV_Key/6.blip_tatoo_r.png"
     }
 }
